@@ -4,7 +4,6 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>ArcheRage Addon Version Checker</title>
-    <script src="https://unpkg.com/@supabase/supabase-js@2"></script>
     <style>
         * {
             margin: 0;
@@ -205,10 +204,6 @@
     </div>
 
     <script>
-        const SUPABASE_URL = 'https://bqowsaiwpqmztxyujmoa.supabase.co';
-        const SUPABASE_ANON_KEY = 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6ImJxb3dzYWl3cHFtenR4eXVqbW9hIiwicm9sZSI6ImFub24iLCJpYXQiOjE3NTIxNTg3OTQsImV4cCI6MjA2NzczNDc5NH0.PfivsdHpMEdGfeoA6WNXm5G7m5WNOTD4XW2mB06641g';
-        
-        const supabase = window.supabase.createClient(SUPABASE_URL, SUPABASE_ANON_KEY);
 
         function getUrlParam(param) {
             const regex = new RegExp('[?&]' + param + '=([^&#]*)');
@@ -235,13 +230,12 @@
 
         async function fetchAddonData() {
             try {
-                const { data, error } = await supabase
-                    .from('addons')
-                    .select('*')
-                    .order('UploadDate', { ascending: false });
-                
-                if (error) throw error;
-                return data;
+                const response = await fetch('./addons.json');
+                if (!response.ok) {
+                    throw new Error(`HTTP error! status: ${response.status}`);
+                }
+                const data = await response.json();
+                return data.addons || [];
             } catch (error) {
                 console.error('Error retrieving data:', error);
                 throw error;
