@@ -1,0 +1,74 @@
+name: Update Addons Data
+
+on:
+  schedule:
+    # Runs every hour
+    - cron: '0 * * * *'
+  workflow_dispatch: # Allows manual trigger
+
+jobs:
+  update-addons:
+    runs-on: ubuntu-latest
+    
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v3
+      
+    - name: Setup Node.js
+      uses: actions/setup-node@v3
+      with:
+        node-version: '18'
+        
+    - name: Install dependencies
+      run: npm install @supabase/supabase-js
+      
+    - name: Fetch addons data
+      env:
+        SUPABASE_URL: ${{ secrets.SUPABASE_URL }}
+        SUPABASE_ANON_KEY: ${{ secrets.SUPABASE_ANON_KEY }}
+      run: |
+        node << 'EOF'
+        const { createClient } = require('@supabase/supabase-js');
+        const fs = require('fs');
+        
+        const supabase = createClient(
+          process.env.SUPABASE_URL,
+          process.env.SUPABASE_ANON_KEY
+        );
+        
+        async function fetchAddons() {
+          try {
+            const { data, error } = await supabase
+              .from('addons')
+              .select('*')
+              .order('UploadDate', { ascending: false });
+            
+            if (error) throw error;
+            
+            const addonsData = {
+              lastUpdated: new Date().toISOString(),
+              addons: data || []
+            };
+            
+            fs.writeFileSync('addons.json', JSON.stringify(addonsData, null, 2));
+            console.log(`Successfully fetched ${data?.length || 0} addons`);
+          } catch (error) {
+            console.error('Error fetching addons:', error);
+            process.exit(1);
+          }
+        }
+        
+        fetchAddons();
+        EOF
+        
+    - name: Commit and push changes
+      run: |
+        git config --local user.email "action@github.com"
+        git config --local user.name "GitHub Action"
+        git add addons.json
+        if git diff --staged --quiet; then
+          echo "No changes to commit"
+        else
+          git commit -m "Update addons data - $(date)"
+          git push
+        fi
