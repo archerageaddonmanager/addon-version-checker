@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2025-09-21T23:13:21.697Z",
+  "lastUpdated": "2025-09-22T01:15:45.820Z",
   "addons": [
     {
       "ID": "a65ad929-9ac0-4649-9da3-133cde576a21",
@@ -75,7 +75,7 @@
       "UploadDate": "2025-07-26T12:48:43.435",
       "ThumbnailURL": "[\"https://bqowsaiwpqmztxyujmoa.supabase.co/storage/v1/object/public/addons/Folio_2_0_328bd31b-c472-4b64-a740-f92ab3a692dd/thumbnail_Capture_d__cran_2025-07-14_024034.png\",\"https://bqowsaiwpqmztxyujmoa.supabase.co/storage/v1/object/public/addons/Folio_2_0_328bd31b-c472-4b64-a740-f92ab3a692dd/thumbnail_Capture_d__cran_2025-07-14_024050.png\",\"https://bqowsaiwpqmztxyujmoa.supabase.co/storage/v1/object/public/addons/Folio_2_0_328bd31b-c472-4b64-a740-f92ab3a692dd/thumbnail_Capture_d__cran_2025-07-14_024102.png\",\"https://bqowsaiwpqmztxyujmoa.supabase.co/storage/v1/object/public/addons/Folio_2_0_328bd31b-c472-4b64-a740-f92ab3a692dd/thumbnail_Capture_d__cran_2025-07-14_024136.png\"]",
       "FileSize": "85 Ko",
-      "Downloads": 283,
+      "Downloads": 285,
       "Status": "ready-to-use",
       "UserID": "59842433-9250-4ccb-9484-d3685578381c",
       "FileURL": "https://bqowsaiwpqmztxyujmoa.supabase.co/storage/v1/object/public/addons/Folio_2_0_59842433-9250-4ccb-9484-d3685578381c/Folio105.zip",
@@ -155,7 +155,7 @@
       "UploadDate": "2025-07-19T18:23:13.63",
       "ThumbnailURL": "[\"https://bqowsaiwpqmztxyujmoa.supabase.co/storage/v1/object/public/addons/Simple_Combat_Log_9ad31166-b936-4bac-afb3-1b5403ae60f1/thumbnail_image.png\",\"https://bqowsaiwpqmztxyujmoa.supabase.co/storage/v1/object/public/addons/Simple_Combat_Log_9ad31166-b936-4bac-afb3-1b5403ae60f1/thumbnail_im__age.png\"]",
       "FileSize": "2.45 Ko",
-      "Downloads": 33,
+      "Downloads": 34,
       "Status": "ready-to-use",
       "UserID": "9ad31166-b936-4bac-afb3-1b5403ae60f1",
       "FileURL": "https://bqowsaiwpqmztxyujmoa.supabase.co/storage/v1/object/public/addons/Simple_Combat_Log_9ad31166-b936-4bac-afb3-1b5403ae60f1/simplecombatlog.zip",
@@ -187,7 +187,7 @@
       "UploadDate": "2025-07-18T21:55:29.922",
       "ThumbnailURL": "[\"https://bqowsaiwpqmztxyujmoa.supabase.co/storage/v1/object/public/addons/Raid_Notification_328bd31b-c472-4b64-a740-f92ab3a692dd/thumbnail_Capture_d__cran_2025-07-14_032519.png\"]",
       "FileSize": "24 Ko",
-      "Downloads": 164,
+      "Downloads": 165,
       "Status": "ready-to-use",
       "UserID": "59842433-9250-4ccb-9484-d3685578381c",
       "FileURL": "https://bqowsaiwpqmztxyujmoa.supabase.co/storage/v1/object/public/addons/Raid_Notification_328bd31b-c472-4b64-a740-f92ab3a692dd/RaidNotification.zip",
@@ -267,7 +267,7 @@
       "UploadDate": "2025-07-16T13:47:00.104",
       "ThumbnailURL": "[\"https://bqowsaiwpqmztxyujmoa.supabase.co/storage/v1/object/public/addons/Target_Arrow_328bd31b-c472-4b64-a740-f92ab3a692dd/thumbnail_Capture_d__cran_2025-07-15_204130.png\",\"https://bqowsaiwpqmztxyujmoa.supabase.co/storage/v1/object/public/addons/Target_Arrow_328bd31b-c472-4b64-a740-f92ab3a692dd/thumbnail_Capture_d__cran_2025-07-15_204138.png\",\"https://bqowsaiwpqmztxyujmoa.supabase.co/storage/v1/object/public/addons/Target_Arrow_328bd31b-c472-4b64-a740-f92ab3a692dd/thumbnail_Capture_d__cran_2025-07-15_204144.png\",\"https://bqowsaiwpqmztxyujmoa.supabase.co/storage/v1/object/public/addons/Target_Arrow_328bd31b-c472-4b64-a740-f92ab3a692dd/thumbnail_Capture_d__cran_2025-07-15_204152.png\"]",
       "FileSize": "24 Ko",
-      "Downloads": 181,
+      "Downloads": 182,
       "Status": "ready-to-use",
       "UserID": "59842433-9250-4ccb-9484-d3685578381c",
       "FileURL": "https://bqowsaiwpqmztxyujmoa.supabase.co/storage/v1/object/public/addons/Target_Arrow_328bd31b-c472-4b64-a740-f92ab3a692dd/Arrow.zip",
