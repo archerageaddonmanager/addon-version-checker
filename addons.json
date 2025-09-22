@@ -1,20 +1,36 @@
 {
-  "lastUpdated": "2025-09-22T05:15:26.228Z",
+  "lastUpdated": "2025-09-22T06:24:38.119Z",
   "addons": [
     {
       "ID": "a65ad929-9ac0-4649-9da3-133cde576a21",
       "Name": "Combat Closet",
       "Description": "Give @Raikirifrost your love for bringing us this beauty (i forgot this part i blame sleep deprivation)\n\nPlease read for instructions on how to use existing config.lua\n\nThis addon allows you to create gearsets you can swap between at the click of a button, simply click the cogwheel icon, select save current set, give it a name and select your icon and you are done\n\nNo more having to modify a config.lua simply put what you want on titles/costumes included and save it with as many as you want\n\nCompatible with existing config.luas from the brazilianswap addon please read below what to do\n\nafter installing the addon find your config.lua and copy it into the new addon combatcloset\n\nonce in there simply launch the game like normal and enable the addon\nafter that you are done and can freely delete your config.lua if you wish\n\nsome important details if you have custom icons those same icons will display a brown X, you can simply open the cogwheel and edit the icon to a different one and can freely add icons yourself\nnote you must add another entry into the availableIcons table inside the script if you wish to use custom icons.\n\nIf you have any cool looking icons you'd like to see natively in the addon please send me a message on discord with the .dds files\n\nUpdate v1.1:\nAdded 5 more icons\n\nUpdate v1.2:\nShowing title no longer changes to stat title or 0 (no title) stays as your current showing title.\n\nUpdate v1.3:\nAdded the ability to decide whether your gearset should or should not be edited as well - use the button labeled \"Overwrite Set\" to OFF or ON (Green)\n\nUpdate v1.4:\n@raikirifrost added ability to use symbols/capital letters and numbers correctly when naming gearsets\n\nThank you @exec_noir for pointing this out.\n\nUpdate v1.5:\nModified 2 lines that actively look for an existing addon/ui folder instead of the base ui folder in the game. causing non UI customization users to have _bad.dds returned instead of the texture thanks to @noviern for pointing this out\n\nUpdate v1.6\n\nAdded hotkey functionality, use the combobox (drop downs) when creating or editing a Set and you can hit that hotkey and the set will change\n\nUpdate 1.7\n\n@raikirifrost fixed hotkey issues stopping edits\n\ndesign issue brought to attention regarding non darkmode users, name input box is basically invisible, have darkened it a bit",
-      "Version": "1.9",
+      "Version": "2.0",
       "Author": "koalaz_au",
       "Category": "UI",
-      "UploadDate": "2025-09-20T13:28:47.382",
+      "UploadDate": "2025-09-22T05:36:09.327",
       "ThumbnailURL": "[\"https://bqowsaiwpqmztxyujmoa.supabase.co/storage/v1/object/public/addons/Combat_Closet_59842433-9250-4ccb-9484-d3685578381c/thumbnail_Screenshot_2025-08-10_204909.png\",\"https://bqowsaiwpqmztxyujmoa.supabase.co/storage/v1/object/public/addons/Combat_Closet_59842433-9250-4ccb-9484-d3685578381c/thumbnail_Screenshot_2025-08-10_204927.png\",\"https://bqowsaiwpqmztxyujmoa.supabase.co/storage/v1/object/public/addons/Combat_Closet_59842433-9250-4ccb-9484-d3685578381c/thumbnail_Screenshot_2025-08-10_204940.png\"]",
       "FileSize": "97 Ko",
-      "Downloads": 144,
+      "Downloads": 145,
       "Status": "ready-to-use",
       "UserID": "59842433-9250-4ccb-9484-d3685578381c",
       "FileURL": "https://bqowsaiwpqmztxyujmoa.supabase.co/storage/v1/object/public/addons/Combat_Closet_59842433-9250-4ccb-9484-d3685578381c/combatcloset.zip",
+      "Warning": false
+    },
+    {
+      "ID": "4174d4a5-5091-4059-a817-de5a1940787d",
+      "Name": "Folio 2.0",
+      "Description": "This add-on gives you access to a folio where you can set a crafting and selling area to display all available packs, their current rates, the most accurate selling price based on the current rate and your commerce proficiency level.\nIt also displays the resources required to craft each specialty pack, as well as the current price retrieved from the Auction House.\n\nIt summarizes and displays the total crafting cost and the profit you will make from each pack.",
+      "Version": "1.6",
+      "Author": "koalaz_au",
+      "Category": "Economy",
+      "UploadDate": "2025-09-22T05:33:41.556",
+      "ThumbnailURL": "[\"https://bqowsaiwpqmztxyujmoa.supabase.co/storage/v1/object/public/addons/Folio_2_0_328bd31b-c472-4b64-a740-f92ab3a692dd/thumbnail_Capture_d__cran_2025-07-14_024034.png\",\"https://bqowsaiwpqmztxyujmoa.supabase.co/storage/v1/object/public/addons/Folio_2_0_328bd31b-c472-4b64-a740-f92ab3a692dd/thumbnail_Capture_d__cran_2025-07-14_024050.png\",\"https://bqowsaiwpqmztxyujmoa.supabase.co/storage/v1/object/public/addons/Folio_2_0_328bd31b-c472-4b64-a740-f92ab3a692dd/thumbnail_Capture_d__cran_2025-07-14_024102.png\",\"https://bqowsaiwpqmztxyujmoa.supabase.co/storage/v1/object/public/addons/Folio_2_0_328bd31b-c472-4b64-a740-f92ab3a692dd/thumbnail_Capture_d__cran_2025-07-14_024136.png\"]",
+      "FileSize": "85 Ko",
+      "Downloads": 287,
+      "Status": "ready-to-use",
+      "UserID": "59842433-9250-4ccb-9484-d3685578381c",
+      "FileURL": "https://bqowsaiwpqmztxyujmoa.supabase.co/storage/v1/object/public/addons/Folio_2_0_59842433-9250-4ccb-9484-d3685578381c/Folio105.zip",
       "Warning": false
     },
     {
@@ -63,22 +79,6 @@
       "Status": "ready-to-use",
       "UserID": "59842433-9250-4ccb-9484-d3685578381c",
       "FileURL": "https://bqowsaiwpqmztxyujmoa.supabase.co/storage/v1/object/public/addons/_DOWNLOAD_CORE_FIRST__DarkMode_UPDATES_59842433-9250-4ccb-9484-d3685578381c/ui.zip",
-      "Warning": false
-    },
-    {
-      "ID": "4174d4a5-5091-4059-a817-de5a1940787d",
-      "Name": "Folio 2.0",
-      "Description": "This add-on gives you access to a folio where you can set a crafting and selling area to display all available packs, their current rates, the most accurate selling price based on the current rate and your commerce proficiency level.\nIt also displays the resources required to craft each specialty pack, as well as the current price retrieved from the Auction House.\n\nIt summarizes and displays the total crafting cost and the profit you will make from each pack.",
-      "Version": "1.5",
-      "Author": "koalaz_au",
-      "Category": "Economy",
-      "UploadDate": "2025-07-26T12:48:43.435",
-      "ThumbnailURL": "[\"https://bqowsaiwpqmztxyujmoa.supabase.co/storage/v1/object/public/addons/Folio_2_0_328bd31b-c472-4b64-a740-f92ab3a692dd/thumbnail_Capture_d__cran_2025-07-14_024034.png\",\"https://bqowsaiwpqmztxyujmoa.supabase.co/storage/v1/object/public/addons/Folio_2_0_328bd31b-c472-4b64-a740-f92ab3a692dd/thumbnail_Capture_d__cran_2025-07-14_024050.png\",\"https://bqowsaiwpqmztxyujmoa.supabase.co/storage/v1/object/public/addons/Folio_2_0_328bd31b-c472-4b64-a740-f92ab3a692dd/thumbnail_Capture_d__cran_2025-07-14_024102.png\",\"https://bqowsaiwpqmztxyujmoa.supabase.co/storage/v1/object/public/addons/Folio_2_0_328bd31b-c472-4b64-a740-f92ab3a692dd/thumbnail_Capture_d__cran_2025-07-14_024136.png\"]",
-      "FileSize": "85 Ko",
-      "Downloads": 286,
-      "Status": "ready-to-use",
-      "UserID": "59842433-9250-4ccb-9484-d3685578381c",
-      "FileURL": "https://bqowsaiwpqmztxyujmoa.supabase.co/storage/v1/object/public/addons/Folio_2_0_59842433-9250-4ccb-9484-d3685578381c/Folio105.zip",
       "Warning": false
     },
     {
@@ -251,7 +251,7 @@
       "UploadDate": "2025-07-17T19:46:28.917",
       "ThumbnailURL": "[\"https://bqowsaiwpqmztxyujmoa.supabase.co/storage/v1/object/public/addons/Allow_200_Max_Players_328bd31b-c472-4b64-a740-f92ab3a692dd/thumbnail_Capture_d__cran_2025-07-14_023707.png\"]",
       "FileSize": "12 Ko",
-      "Downloads": 122,
+      "Downloads": 123,
       "Status": "ready-to-use",
       "UserID": "59842433-9250-4ccb-9484-d3685578381c",
       "FileURL": "https://bqowsaiwpqmztxyujmoa.supabase.co/storage/v1/object/public/addons/Allow_200_Max_Players_328bd31b-c472-4b64-a740-f92ab3a692dd/allow200maxplayers.zip",
