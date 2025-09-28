@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2025-09-28T22:13:20.507Z",
+  "lastUpdated": "2025-09-28T23:13:37.238Z",
   "addons": [
     {
       "ID": "a65ad929-9ac0-4649-9da3-133cde576a21",
@@ -75,7 +75,7 @@
       "UploadDate": "2025-08-19T13:00:22.038",
       "ThumbnailURL": "[\"https://bqowsaiwpqmztxyujmoa.supabase.co/storage/v1/object/public/addons/_DOWNLOAD_CORE_FIRST__DarkMode_UPDATES_59842433-9250-4ccb-9484-d3685578381c/thumbnail_darkmodeupdate.png\"]",
       "FileSize": "10 Ko",
-      "Downloads": 504,
+      "Downloads": 505,
       "Status": "ready-to-use",
       "UserID": "59842433-9250-4ccb-9484-d3685578381c",
       "FileURL": "https://bqowsaiwpqmztxyujmoa.supabase.co/storage/v1/object/public/addons/_DOWNLOAD_CORE_FIRST__DarkMode_UPDATES_59842433-9250-4ccb-9484-d3685578381c/ui.zip",
@@ -171,7 +171,7 @@
       "UploadDate": "2025-07-19T18:13:41.861",
       "ThumbnailURL": "[\"https://bqowsaiwpqmztxyujmoa.supabase.co/storage/v1/object/public/addons/Speedometer_9ad31166-b936-4bac-afb3-1b5403ae60f1/thumbnail_Capture_decran_2025-06-02_162040.png\",\"https://bqowsaiwpqmztxyujmoa.supabase.co/storage/v1/object/public/addons/Speedometer_9ad31166-b936-4bac-afb3-1b5403ae60f1/thumbnail_image.png\"]",
       "FileSize": "113 Ko",
-      "Downloads": 88,
+      "Downloads": 89,
       "Status": "ready-to-use",
       "UserID": "9ad31166-b936-4bac-afb3-1b5403ae60f1",
       "FileURL": "https://bqowsaiwpqmztxyujmoa.supabase.co/storage/v1/object/public/addons/Speedometer_9ad31166-b936-4bac-afb3-1b5403ae60f1/speedometer.zip",
@@ -235,7 +235,7 @@
       "UploadDate": "2025-07-17T22:26:45.965",
       "ThumbnailURL": "[\"https://bqowsaiwpqmztxyujmoa.supabase.co/storage/v1/object/public/addons/_Read_Instructions__DarkMode_UI_Core_59842433-9250-4ccb-9484-d3685578381c/thumbnail_darkmodecore.png\"]",
       "FileSize": "420 MB",
-      "Downloads": 374,
+      "Downloads": 375,
       "Status": "ready-to-use",
       "UserID": "59842433-9250-4ccb-9484-d3685578381c",
       "FileURL": "https://bqowsaiwpqmztxyujmoa.supabase.co/storage/v1/object/public/addons/_Read_Instructions__DarkMode_UI_Core_59842433-9250-4ccb-9484-d3685578381c/ui.zip",
@@ -251,7 +251,7 @@
       "UploadDate": "2025-07-17T19:46:28.917",
       "ThumbnailURL": "[\"https://bqowsaiwpqmztxyujmoa.supabase.co/storage/v1/object/public/addons/Allow_200_Max_Players_328bd31b-c472-4b64-a740-f92ab3a692dd/thumbnail_Capture_d__cran_2025-07-14_023707.png\"]",
       "FileSize": "12 Ko",
-      "Downloads": 132,
+      "Downloads": 133,
       "Status": "ready-to-use",
       "UserID": "59842433-9250-4ccb-9484-d3685578381c",
       "FileURL": "https://bqowsaiwpqmztxyujmoa.supabase.co/storage/v1/object/public/addons/Allow_200_Max_Players_328bd31b-c472-4b64-a740-f92ab3a692dd/allow200maxplayers.zip",
