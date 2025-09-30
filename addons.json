@@ -1,6 +1,22 @@
 {
-  "lastUpdated": "2025-09-30T12:32:54.308Z",
+  "lastUpdated": "2025-09-30T13:26:26.094Z",
   "addons": [
+    {
+      "ID": "c1bdeeb2-3c5f-4219-976b-3838a5ca0912",
+      "Name": "(DOWNLOAD CORE FIRST) DarkMode UPDATES",
+      "Description": "This addon will be used for updates to\n\n1. stop everyone having to download 420MB of data every time a patch releases\n2. not interfere with their own custom changes they may have made.\n\nChangelog.\nv1.4:\nAdded \nui\\icon\\arcustom\\\ncustom_deco_golen_chest.dds\nicon_item_fatcat.dds\nicon_item_red_lion.dds\nicon_title_flippers.dds\nicon_title_pearl.dds\nicon_title_treasure_chest.dds\nicon_title_treasure_map.dds\nquest_item_b_pearl.dds\nquest_item_daru_charm.dds\nquest_item_necklace_recipe.dds\nquest_item_pearl_necklace.dds\nquest_item_pearl_string.dds\nquest_item_shark_head.dds\nquest_item_td_event_coin.dds\nquest_item_td_event_invitation.dds\n\nui\\hud\\nametag\\\ntag_flippers.dds\ntag_pearl.dds\ntag_treasure_chest.dds\ntag_treasure_map.dds",
+      "Version": "1.4",
+      "Author": "koalaz_au",
+      "Category": "UI",
+      "UploadDate": "2025-09-30T12:34:23.303",
+      "ThumbnailURL": "[\"https://bqowsaiwpqmztxyujmoa.supabase.co/storage/v1/object/public/addons/_DOWNLOAD_CORE_FIRST__DarkMode_UPDATES_59842433-9250-4ccb-9484-d3685578381c/thumbnail_darkmodeupdate.png\"]",
+      "FileSize": "230 Ko",
+      "Downloads": 509,
+      "Status": "ready-to-use",
+      "UserID": "59842433-9250-4ccb-9484-d3685578381c",
+      "FileURL": "https://bqowsaiwpqmztxyujmoa.supabase.co/storage/v1/object/public/addons/_DOWNLOAD_CORE_FIRST__DarkMode_UPDATES_59842433-9250-4ccb-9484-d3685578381c/ui.zip",
+      "Warning": false
+    },
     {
       "ID": "a65ad929-9ac0-4649-9da3-133cde576a21",
       "Name": "Combat Closet",
@@ -63,22 +79,6 @@
       "Status": "ready-to-use",
       "UserID": "59842433-9250-4ccb-9484-d3685578381c",
       "FileURL": "https://bqowsaiwpqmztxyujmoa.supabase.co/storage/v1/object/public/addons/Low_Mana_indicator_59842433-9250-4ccb-9484-d3685578381c/LowManaNotice.zip",
-      "Warning": false
-    },
-    {
-      "ID": "c1bdeeb2-3c5f-4219-976b-3838a5ca0912",
-      "Name": "(DOWNLOAD CORE FIRST) DarkMode UPDATES",
-      "Description": "This addon will be used for updates to\n\n1. stop everyone having to download 420MB of data every time a patch releases\n2. not interfere with their own custom changes they may have made.\n\nChangelog.\nv1.3:\nAdded \n-custom_deco_brooms_storege.dds\n-custom_deco_duel_flag.dds\n-custom_deco_magic_sphere.dds\n-custom_deco_magicfest_item.dds\n-festival_magicalacademy_coin.dds",
-      "Version": "1.3",
-      "Author": "koalaz_au",
-      "Category": "UI",
-      "UploadDate": "2025-08-19T13:00:22.038",
-      "ThumbnailURL": "[\"https://bqowsaiwpqmztxyujmoa.supabase.co/storage/v1/object/public/addons/_DOWNLOAD_CORE_FIRST__DarkMode_UPDATES_59842433-9250-4ccb-9484-d3685578381c/thumbnail_darkmodeupdate.png\"]",
-      "FileSize": "10 Ko",
-      "Downloads": 506,
-      "Status": "ready-to-use",
-      "UserID": "59842433-9250-4ccb-9484-d3685578381c",
-      "FileURL": "https://bqowsaiwpqmztxyujmoa.supabase.co/storage/v1/object/public/addons/_DOWNLOAD_CORE_FIRST__DarkMode_UPDATES_59842433-9250-4ccb-9484-d3685578381c/ui.zip",
       "Warning": false
     },
     {
