@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2025-09-30T22:13:53.422Z",
+  "lastUpdated": "2025-09-30T23:13:45.184Z",
   "addons": [
     {
       "ID": "c1bdeeb2-3c5f-4219-976b-3838a5ca0912",
@@ -75,7 +75,7 @@
       "UploadDate": "2025-09-15T10:46:03.148",
       "ThumbnailURL": "[\"https://bqowsaiwpqmztxyujmoa.supabase.co/storage/v1/object/public/addons/Low_Mana_indicator_59842433-9250-4ccb-9484-d3685578381c/thumbnail_Screenshot_2025-09-15_182122.png\",\"https://bqowsaiwpqmztxyujmoa.supabase.co/storage/v1/object/public/addons/Low_Mana_indicator_59842433-9250-4ccb-9484-d3685578381c/thumbnail_Screenshot_2025-09-15_182145.png\"]",
       "FileSize": "10 Ko",
-      "Downloads": 4,
+      "Downloads": 5,
       "Status": "ready-to-use",
       "UserID": "59842433-9250-4ccb-9484-d3685578381c",
       "FileURL": "https://bqowsaiwpqmztxyujmoa.supabase.co/storage/v1/object/public/addons/Low_Mana_indicator_59842433-9250-4ccb-9484-d3685578381c/LowManaNotice.zip",
@@ -91,7 +91,7 @@
       "UploadDate": "2025-07-25T11:33:09.602",
       "ThumbnailURL": "[\"https://bqowsaiwpqmztxyujmoa.supabase.co/storage/v1/object/public/addons/Treasure_Map_Hunter_328bd31b-c472-4b64-a740-f92ab3a692dd/thumbnail_Capture_d__cran_2025-07-19_182024.png\",\"https://bqowsaiwpqmztxyujmoa.supabase.co/storage/v1/object/public/addons/Treasure_Map_Hunter_328bd31b-c472-4b64-a740-f92ab3a692dd/thumbnail_Capture_d__cran_2025-07-19_182051.png\",\"https://bqowsaiwpqmztxyujmoa.supabase.co/storage/v1/object/public/addons/Treasure_Map_Hunter_328bd31b-c472-4b64-a740-f92ab3a692dd/thumbnail_Capture_d__cran_2025-07-19_182121.png\",\"https://bqowsaiwpqmztxyujmoa.supabase.co/storage/v1/object/public/addons/Treasure_Map_Hunter_328bd31b-c472-4b64-a740-f92ab3a692dd/thumbnail_Capture_d__cran_2025-07-19_182136.png\",\"https://bqowsaiwpqmztxyujmoa.supabase.co/storage/v1/object/public/addons/Treasure_Map_Hunter_328bd31b-c472-4b64-a740-f92ab3a692dd/thumbnail_Capture_d__cran_2025-07-23_161805.png\"]",
       "FileSize": "48 Ko",
-      "Downloads": 150,
+      "Downloads": 151,
       "Status": "ready-to-use",
       "UserID": "59842433-9250-4ccb-9484-d3685578381c",
       "FileURL": "https://bqowsaiwpqmztxyujmoa.supabase.co/storage/v1/object/public/addons/Treasure_Map_Hunter_59842433-9250-4ccb-9484-d3685578381c/TreasureMapHunter.zip",
@@ -107,7 +107,7 @@
       "UploadDate": "2025-07-24T10:26:19.497",
       "ThumbnailURL": "[\"https://bqowsaiwpqmztxyujmoa.supabase.co/storage/v1/object/public/addons/Bag_and_Item_Stat_Scanner_59842433-9250-4ccb-9484-d3685578381c/thumbnail_Screenshot_2025-07-24_202504.png\"]",
       "FileSize": "23 Ko",
-      "Downloads": 12,
+      "Downloads": 13,
       "Status": "ready-to-use",
       "UserID": "59842433-9250-4ccb-9484-d3685578381c",
       "FileURL": "https://bqowsaiwpqmztxyujmoa.supabase.co/storage/v1/object/public/addons/Bag_and_Item_Stat_Scanner_59842433-9250-4ccb-9484-d3685578381c/baganditemscanner.zip",
@@ -315,7 +315,7 @@
       "UploadDate": "2025-07-15T00:53:39.804",
       "ThumbnailURL": "[\"https://bqowsaiwpqmztxyujmoa.supabase.co/storage/v1/object/public/addons/You_Will_Die_Soon_328bd31b-c472-4b64-a740-f92ab3a692dd/thumbnail_Capture_d__cran_2025-07-14_033830.png\",\"https://bqowsaiwpqmztxyujmoa.supabase.co/storage/v1/object/public/addons/You_Will_Die_Soon_328bd31b-c472-4b64-a740-f92ab3a692dd/thumbnail_Capture_d__cran_2025-07-14_033835.png\",\"https://bqowsaiwpqmztxyujmoa.supabase.co/storage/v1/object/public/addons/You_Will_Die_Soon_328bd31b-c472-4b64-a740-f92ab3a692dd/thumbnail_Capture_d__cran_2025-07-14_033841.png\"]",
       "FileSize": "336 Ko",
-      "Downloads": 103,
+      "Downloads": 104,
       "Status": "ready-to-use",
       "UserID": "59842433-9250-4ccb-9484-d3685578381c",
       "FileURL": "https://bqowsaiwpqmztxyujmoa.supabase.co/storage/v1/object/public/addons/You_Will_Die_Soon_328bd31b-c472-4b64-a740-f92ab3a692dd/YouWillDieSoon.zip",
