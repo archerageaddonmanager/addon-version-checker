@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2025-10-04T11:10:42.497Z",
+  "lastUpdated": "2025-10-04T12:27:37.468Z",
   "addons": [
     {
       "ID": "c1bdeeb2-3c5f-4219-976b-3838a5ca0912",
@@ -11,7 +11,7 @@
       "UploadDate": "2025-09-30T12:34:23.303",
       "ThumbnailURL": "[\"https://bqowsaiwpqmztxyujmoa.supabase.co/storage/v1/object/public/addons/_DOWNLOAD_CORE_FIRST__DarkMode_UPDATES_59842433-9250-4ccb-9484-d3685578381c/thumbnail_darkmodeupdate.png\"]",
       "FileSize": "230 Ko",
-      "Downloads": 542,
+      "Downloads": 543,
       "Status": "ready-to-use",
       "UserID": "59842433-9250-4ccb-9484-d3685578381c",
       "FileURL": "https://bqowsaiwpqmztxyujmoa.supabase.co/storage/v1/object/public/addons/_DOWNLOAD_CORE_FIRST__DarkMode_UPDATES_59842433-9250-4ccb-9484-d3685578381c/ui.zip",
@@ -251,7 +251,7 @@
       "UploadDate": "2025-07-17T19:46:28.917",
       "ThumbnailURL": "[\"https://bqowsaiwpqmztxyujmoa.supabase.co/storage/v1/object/public/addons/Allow_200_Max_Players_328bd31b-c472-4b64-a740-f92ab3a692dd/thumbnail_Capture_d__cran_2025-07-14_023707.png\"]",
       "FileSize": "12 Ko",
-      "Downloads": 138,
+      "Downloads": 139,
       "Status": "ready-to-use",
       "UserID": "59842433-9250-4ccb-9484-d3685578381c",
       "FileURL": "https://bqowsaiwpqmztxyujmoa.supabase.co/storage/v1/object/public/addons/Allow_200_Max_Players_328bd31b-c472-4b64-a740-f92ab3a692dd/allow200maxplayers.zip",
