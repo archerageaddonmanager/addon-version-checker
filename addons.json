@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2025-10-16T04:18:08.969Z",
+  "lastUpdated": "2025-10-16T05:15:10.307Z",
   "addons": [
     {
       "ID": "85c9f0ed-133a-4487-87f3-b2794ca92750",
@@ -27,7 +27,7 @@
       "UploadDate": "2025-10-15T00:50:57.868",
       "ThumbnailURL": "[\"https://bqowsaiwpqmztxyujmoa.supabase.co/storage/v1/object/public/addons/_DOWNLOAD_CORE_FIRST__DarkMode_UPDATES_59842433-9250-4ccb-9484-d3685578381c/thumbnail_darkmodeupdate.png\"]",
       "FileSize": "230 Ko",
-      "Downloads": 619,
+      "Downloads": 620,
       "Status": "ready-to-use",
       "UserID": "59842433-9250-4ccb-9484-d3685578381c",
       "FileURL": "https://bqowsaiwpqmztxyujmoa.supabase.co/storage/v1/object/public/addons/_DOWNLOAD_CORE_FIRST__DarkMode_UPDATES_59842433-9250-4ccb-9484-d3685578381c/ui.zip",
@@ -347,7 +347,7 @@
       "UploadDate": "2025-07-15T00:53:30.159",
       "ThumbnailURL": "[\"https://bqowsaiwpqmztxyujmoa.supabase.co/storage/v1/object/public/addons/Raid_Schedules_328bd31b-c472-4b64-a740-f92ab3a692dd/thumbnail_Capture_d__cran_2025-07-14_032221.png\",\"https://bqowsaiwpqmztxyujmoa.supabase.co/storage/v1/object/public/addons/Raid_Schedules_328bd31b-c472-4b64-a740-f92ab3a692dd/thumbnail_Capture_d__cran_2025-07-14_032228.png\"]",
       "FileSize": "8.5 Mb",
-      "Downloads": 174,
+      "Downloads": 175,
       "Status": "ready-to-use",
       "UserID": "59842433-9250-4ccb-9484-d3685578381c",
       "FileURL": "https://bqowsaiwpqmztxyujmoa.supabase.co/storage/v1/object/public/addons/Raid_Schedules_328bd31b-c472-4b64-a740-f92ab3a692dd/RaidSchedules.zip",
