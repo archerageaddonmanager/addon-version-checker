@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2025-10-16T05:15:10.307Z",
+  "lastUpdated": "2025-10-16T06:23:40.389Z",
   "addons": [
     {
       "ID": "85c9f0ed-133a-4487-87f3-b2794ca92750",
@@ -11,7 +11,7 @@
       "UploadDate": "2025-10-15T00:58:54.987",
       "ThumbnailURL": "[\"https://bqowsaiwpqmztxyujmoa.supabase.co/storage/v1/object/public/addons/Raid_Snapshot_59842433-9250-4ccb-9484-d3685578381c/thumbnail_image.png\"]",
       "FileSize": "30 Ko",
-      "Downloads": 2,
+      "Downloads": 3,
       "Status": "ready-to-use",
       "UserID": "59842433-9250-4ccb-9484-d3685578381c",
       "FileURL": "https://bqowsaiwpqmztxyujmoa.supabase.co/storage/v1/object/public/addons/Raid_Snapshot_59842433-9250-4ccb-9484-d3685578381c/RaidSnapshot.zip",
@@ -315,7 +315,7 @@
       "UploadDate": "2025-07-15T08:22:46.173",
       "ThumbnailURL": "[\"https://bqowsaiwpqmztxyujmoa.supabase.co/storage/v1/object/public/addons/Health_Plate_and_Symbol_resizing_addon_59842433-9250-4ccb-9484-d3685578381c/thumbnail_Screenshot_2025-07-14_171232.png\",\"https://bqowsaiwpqmztxyujmoa.supabase.co/storage/v1/object/public/addons/Health_Plate_and_Symbol_resizing_addon_59842433-9250-4ccb-9484-d3685578381c/thumbnail_Screenshot_2025-07-14_171248.png\"]",
       "FileSize": "1 Ko",
-      "Downloads": 178,
+      "Downloads": 179,
       "Status": "ready-to-use",
       "UserID": "59842433-9250-4ccb-9484-d3685578381c",
       "FileURL": "https://bqowsaiwpqmztxyujmoa.supabase.co/storage/v1/object/public/addons/Health_Plate_and_Symbol_resizing_addon_59842433-9250-4ccb-9484-d3685578381c/plateandsymbolresize.zip",
