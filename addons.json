@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2025-10-16T12:34:06.714Z",
+  "lastUpdated": "2025-10-16T13:28:14.081Z",
   "addons": [
     {
       "ID": "85c9f0ed-133a-4487-87f3-b2794ca92750",
@@ -59,7 +59,7 @@
       "UploadDate": "2025-09-22T05:33:41.556",
       "ThumbnailURL": "[\"https://bqowsaiwpqmztxyujmoa.supabase.co/storage/v1/object/public/addons/Folio_2_0_328bd31b-c472-4b64-a740-f92ab3a692dd/thumbnail_Capture_d__cran_2025-07-14_024034.png\",\"https://bqowsaiwpqmztxyujmoa.supabase.co/storage/v1/object/public/addons/Folio_2_0_328bd31b-c472-4b64-a740-f92ab3a692dd/thumbnail_Capture_d__cran_2025-07-14_024050.png\",\"https://bqowsaiwpqmztxyujmoa.supabase.co/storage/v1/object/public/addons/Folio_2_0_328bd31b-c472-4b64-a740-f92ab3a692dd/thumbnail_Capture_d__cran_2025-07-14_024102.png\",\"https://bqowsaiwpqmztxyujmoa.supabase.co/storage/v1/object/public/addons/Folio_2_0_328bd31b-c472-4b64-a740-f92ab3a692dd/thumbnail_Capture_d__cran_2025-07-14_024136.png\"]",
       "FileSize": "85 Ko",
-      "Downloads": 389,
+      "Downloads": 390,
       "Status": "ready-to-use",
       "UserID": "59842433-9250-4ccb-9484-d3685578381c",
       "FileURL": "https://bqowsaiwpqmztxyujmoa.supabase.co/storage/v1/object/public/addons/Folio_2_0_59842433-9250-4ccb-9484-d3685578381c/Folio105.zip",
@@ -171,7 +171,7 @@
       "UploadDate": "2025-07-19T18:23:13.63",
       "ThumbnailURL": "[\"https://bqowsaiwpqmztxyujmoa.supabase.co/storage/v1/object/public/addons/Simple_Combat_Log_9ad31166-b936-4bac-afb3-1b5403ae60f1/thumbnail_image.png\",\"https://bqowsaiwpqmztxyujmoa.supabase.co/storage/v1/object/public/addons/Simple_Combat_Log_9ad31166-b936-4bac-afb3-1b5403ae60f1/thumbnail_im__age.png\"]",
       "FileSize": "2.45 Ko",
-      "Downloads": 48,
+      "Downloads": 49,
       "Status": "ready-to-use",
       "UserID": "9ad31166-b936-4bac-afb3-1b5403ae60f1",
       "FileURL": "https://bqowsaiwpqmztxyujmoa.supabase.co/storage/v1/object/public/addons/Simple_Combat_Log_9ad31166-b936-4bac-afb3-1b5403ae60f1/simplecombatlog.zip",
@@ -315,7 +315,7 @@
       "UploadDate": "2025-07-15T08:22:46.173",
       "ThumbnailURL": "[\"https://bqowsaiwpqmztxyujmoa.supabase.co/storage/v1/object/public/addons/Health_Plate_and_Symbol_resizing_addon_59842433-9250-4ccb-9484-d3685578381c/thumbnail_Screenshot_2025-07-14_171232.png\",\"https://bqowsaiwpqmztxyujmoa.supabase.co/storage/v1/object/public/addons/Health_Plate_and_Symbol_resizing_addon_59842433-9250-4ccb-9484-d3685578381c/thumbnail_Screenshot_2025-07-14_171248.png\"]",
       "FileSize": "1 Ko",
-      "Downloads": 179,
+      "Downloads": 180,
       "Status": "ready-to-use",
       "UserID": "59842433-9250-4ccb-9484-d3685578381c",
       "FileURL": "https://bqowsaiwpqmztxyujmoa.supabase.co/storage/v1/object/public/addons/Health_Plate_and_Symbol_resizing_addon_59842433-9250-4ccb-9484-d3685578381c/plateandsymbolresize.zip",
