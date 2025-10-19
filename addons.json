@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2025-10-19T15:13:27.315Z",
+  "lastUpdated": "2025-10-19T16:17:17.894Z",
   "addons": [
     {
       "ID": "85c9f0ed-133a-4487-87f3-b2794ca92750",
@@ -43,7 +43,7 @@
       "UploadDate": "2025-09-22T05:36:09.327",
       "ThumbnailURL": "[\"https://bqowsaiwpqmztxyujmoa.supabase.co/storage/v1/object/public/addons/Combat_Closet_59842433-9250-4ccb-9484-d3685578381c/thumbnail_Screenshot_2025-08-10_204909.png\",\"https://bqowsaiwpqmztxyujmoa.supabase.co/storage/v1/object/public/addons/Combat_Closet_59842433-9250-4ccb-9484-d3685578381c/thumbnail_Screenshot_2025-08-10_204927.png\",\"https://bqowsaiwpqmztxyujmoa.supabase.co/storage/v1/object/public/addons/Combat_Closet_59842433-9250-4ccb-9484-d3685578381c/thumbnail_Screenshot_2025-08-10_204940.png\"]",
       "FileSize": "97 Ko",
-      "Downloads": 229,
+      "Downloads": 230,
       "Status": "ready-to-use",
       "UserID": "59842433-9250-4ccb-9484-d3685578381c",
       "FileURL": "https://bqowsaiwpqmztxyujmoa.supabase.co/storage/v1/object/public/addons/Combat_Closet_59842433-9250-4ccb-9484-d3685578381c/combatcloset.zip",
@@ -91,7 +91,7 @@
       "UploadDate": "2025-09-15T10:46:03.148",
       "ThumbnailURL": "[\"https://bqowsaiwpqmztxyujmoa.supabase.co/storage/v1/object/public/addons/Low_Mana_indicator_59842433-9250-4ccb-9484-d3685578381c/thumbnail_Screenshot_2025-09-15_182122.png\",\"https://bqowsaiwpqmztxyujmoa.supabase.co/storage/v1/object/public/addons/Low_Mana_indicator_59842433-9250-4ccb-9484-d3685578381c/thumbnail_Screenshot_2025-09-15_182145.png\"]",
       "FileSize": "10 Ko",
-      "Downloads": 17,
+      "Downloads": 18,
       "Status": "ready-to-use",
       "UserID": "59842433-9250-4ccb-9484-d3685578381c",
       "FileURL": "https://bqowsaiwpqmztxyujmoa.supabase.co/storage/v1/object/public/addons/Low_Mana_indicator_59842433-9250-4ccb-9484-d3685578381c/LowManaNotice.zip",
@@ -171,7 +171,7 @@
       "UploadDate": "2025-07-19T18:23:13.63",
       "ThumbnailURL": "[\"https://bqowsaiwpqmztxyujmoa.supabase.co/storage/v1/object/public/addons/Simple_Combat_Log_9ad31166-b936-4bac-afb3-1b5403ae60f1/thumbnail_image.png\",\"https://bqowsaiwpqmztxyujmoa.supabase.co/storage/v1/object/public/addons/Simple_Combat_Log_9ad31166-b936-4bac-afb3-1b5403ae60f1/thumbnail_im__age.png\"]",
       "FileSize": "2.45 Ko",
-      "Downloads": 51,
+      "Downloads": 52,
       "Status": "ready-to-use",
       "UserID": "9ad31166-b936-4bac-afb3-1b5403ae60f1",
       "FileURL": "https://bqowsaiwpqmztxyujmoa.supabase.co/storage/v1/object/public/addons/Simple_Combat_Log_9ad31166-b936-4bac-afb3-1b5403ae60f1/simplecombatlog.zip",
@@ -219,7 +219,7 @@
       "UploadDate": "2025-07-18T09:34:46.667",
       "ThumbnailURL": "[\"https://bqowsaiwpqmztxyujmoa.supabase.co/storage/v1/object/public/addons/ImmortalWardenTraker_328bd31b-c472-4b64-a740-f92ab3a692dd/thumbnail_Capture_d__cran_2025-07-14_032931.png\",\"https://bqowsaiwpqmztxyujmoa.supabase.co/storage/v1/object/public/addons/ImmortalWardenTraker_328bd31b-c472-4b64-a740-f92ab3a692dd/thumbnail_Capture_d__cran_2025-07-14_032938.png\"]",
       "FileSize": "389 KB",
-      "Downloads": 99,
+      "Downloads": 100,
       "Status": "ready-to-use",
       "UserID": "59842433-9250-4ccb-9484-d3685578381c",
       "FileURL": "https://bqowsaiwpqmztxyujmoa.supabase.co/storage/v1/object/public/addons/Immortal_Warden_Traker_328bd31b-c472-4b64-a740-f92ab3a692dd/ImmortalWardenTraker.zip",
