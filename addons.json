@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2025-10-21T14:17:30.546Z",
+  "lastUpdated": "2025-10-21T15:17:21.661Z",
   "addons": [
     {
       "ID": "85c9f0ed-133a-4487-87f3-b2794ca92750",
@@ -27,7 +27,7 @@
       "UploadDate": "2025-10-15T00:50:57.868",
       "ThumbnailURL": "[\"https://bqowsaiwpqmztxyujmoa.supabase.co/storage/v1/object/public/addons/_DOWNLOAD_CORE_FIRST__DarkMode_UPDATES_59842433-9250-4ccb-9484-d3685578381c/thumbnail_darkmodeupdate.png\"]",
       "FileSize": "230 Ko",
-      "Downloads": 640,
+      "Downloads": 642,
       "Status": "ready-to-use",
       "UserID": "59842433-9250-4ccb-9484-d3685578381c",
       "FileURL": "https://bqowsaiwpqmztxyujmoa.supabase.co/storage/v1/object/public/addons/_DOWNLOAD_CORE_FIRST__DarkMode_UPDATES_59842433-9250-4ccb-9484-d3685578381c/ui.zip",
@@ -203,7 +203,7 @@
       "UploadDate": "2025-07-18T21:55:29.922",
       "ThumbnailURL": "[\"https://bqowsaiwpqmztxyujmoa.supabase.co/storage/v1/object/public/addons/Raid_Notification_328bd31b-c472-4b64-a740-f92ab3a692dd/thumbnail_Capture_d__cran_2025-07-14_032519.png\"]",
       "FileSize": "24 Ko",
-      "Downloads": 208,
+      "Downloads": 209,
       "Status": "ready-to-use",
       "UserID": "59842433-9250-4ccb-9484-d3685578381c",
       "FileURL": "https://bqowsaiwpqmztxyujmoa.supabase.co/storage/v1/object/public/addons/Raid_Notification_328bd31b-c472-4b64-a740-f92ab3a692dd/RaidNotification.zip",
@@ -251,7 +251,7 @@
       "UploadDate": "2025-07-17T22:26:45.965",
       "ThumbnailURL": "[\"https://bqowsaiwpqmztxyujmoa.supabase.co/storage/v1/object/public/addons/_Read_Instructions__DarkMode_UI_Core_59842433-9250-4ccb-9484-d3685578381c/thumbnail_darkmodecore.png\"]",
       "FileSize": "420 MB",
-      "Downloads": 449,
+      "Downloads": 450,
       "Status": "ready-to-use",
       "UserID": "59842433-9250-4ccb-9484-d3685578381c",
       "FileURL": "https://bqowsaiwpqmztxyujmoa.supabase.co/storage/v1/object/public/addons/_Read_Instructions__DarkMode_UI_Core_59842433-9250-4ccb-9484-d3685578381c/ui.zip",
@@ -347,7 +347,7 @@
       "UploadDate": "2025-07-15T00:53:30.159",
       "ThumbnailURL": "[\"https://bqowsaiwpqmztxyujmoa.supabase.co/storage/v1/object/public/addons/Raid_Schedules_328bd31b-c472-4b64-a740-f92ab3a692dd/thumbnail_Capture_d__cran_2025-07-14_032221.png\",\"https://bqowsaiwpqmztxyujmoa.supabase.co/storage/v1/object/public/addons/Raid_Schedules_328bd31b-c472-4b64-a740-f92ab3a692dd/thumbnail_Capture_d__cran_2025-07-14_032228.png\"]",
       "FileSize": "8.5 Mb",
-      "Downloads": 186,
+      "Downloads": 187,
       "Status": "ready-to-use",
       "UserID": "59842433-9250-4ccb-9484-d3685578381c",
       "FileURL": "https://bqowsaiwpqmztxyujmoa.supabase.co/storage/v1/object/public/addons/Raid_Schedules_328bd31b-c472-4b64-a740-f92ab3a692dd/RaidSchedules.zip",
