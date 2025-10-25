@@ -1,6 +1,22 @@
 {
-  "lastUpdated": "2025-10-25T10:14:35.589Z",
+  "lastUpdated": "2025-10-25T11:11:47.818Z",
   "addons": [
+    {
+      "ID": "c1bdeeb2-3c5f-4219-976b-3838a5ca0912",
+      "Name": "(DOWNLOAD CORE FIRST) DarkMode UPDATES",
+      "Description": "This addon will be used for updates to\n\n1. stop everyone having to download 420MB of data every time a patch releases\n2. not interfere with their own custom changes they may have made.\n\nChangelog.\nv1.4:\nAdded \nui\\icon\\arcustom\\\ncustom_deco_golen_chest.dds\nicon_item_fatcat.dds\nicon_item_red_lion.dds\nicon_title_flippers.dds\nicon_title_pearl.dds\nicon_title_treasure_chest.dds\nicon_title_treasure_map.dds\nquest_item_b_pearl.dds\nquest_item_daru_charm.dds\nquest_item_necklace_recipe.dds\nquest_item_pearl_necklace.dds\nquest_item_pearl_string.dds\nquest_item_shark_head.dds\nquest_item_td_event_coin.dds\nquest_item_td_event_invitation.dds\n\nui\\hud\\nametag\\\ntag_flippers.dds\ntag_pearl.dds\ntag_treasure_chest.dds\ntag_treasure_map.dds\n\nv1.5:\nui\\icon\\arcustom\\\ndream_designes_storage.dds\nquest_item_br_event_invitation.dds\n\nV1.6:\nui\\icon\\arcustom\\custom_deco_basket_cat5.dds",
+      "Version": "1.6",
+      "Author": "koalaz_au",
+      "Category": "UI",
+      "UploadDate": "2025-10-25T10:55:52.254",
+      "ThumbnailURL": "[\"https://bqowsaiwpqmztxyujmoa.supabase.co/storage/v1/object/public/addons/_DOWNLOAD_CORE_FIRST__DarkMode_UPDATES_59842433-9250-4ccb-9484-d3685578381c/thumbnail_darkmodeupdate.png\"]",
+      "FileSize": "230 Ko",
+      "Downloads": 668,
+      "Status": "ready-to-use",
+      "UserID": "59842433-9250-4ccb-9484-d3685578381c",
+      "FileURL": "https://bqowsaiwpqmztxyujmoa.supabase.co/storage/v1/object/public/addons/_DOWNLOAD_CORE_FIRST__DarkMode_UPDATES_59842433-9250-4ccb-9484-d3685578381c/ui.zip",
+      "Warning": false
+    },
     {
       "ID": "85c9f0ed-133a-4487-87f3-b2794ca92750",
       "Name": "Raid Snapshot",
@@ -15,22 +31,6 @@
       "Status": "ready-to-use",
       "UserID": "59842433-9250-4ccb-9484-d3685578381c",
       "FileURL": "https://bqowsaiwpqmztxyujmoa.supabase.co/storage/v1/object/public/addons/Raid_Snapshot_59842433-9250-4ccb-9484-d3685578381c/RaidSnapshot.zip",
-      "Warning": false
-    },
-    {
-      "ID": "c1bdeeb2-3c5f-4219-976b-3838a5ca0912",
-      "Name": "(DOWNLOAD CORE FIRST) DarkMode UPDATES",
-      "Description": "This addon will be used for updates to\n\n1. stop everyone having to download 420MB of data every time a patch releases\n2. not interfere with their own custom changes they may have made.\n\nChangelog.\nv1.4:\nAdded \nui\\icon\\arcustom\\\ncustom_deco_golen_chest.dds\nicon_item_fatcat.dds\nicon_item_red_lion.dds\nicon_title_flippers.dds\nicon_title_pearl.dds\nicon_title_treasure_chest.dds\nicon_title_treasure_map.dds\nquest_item_b_pearl.dds\nquest_item_daru_charm.dds\nquest_item_necklace_recipe.dds\nquest_item_pearl_necklace.dds\nquest_item_pearl_string.dds\nquest_item_shark_head.dds\nquest_item_td_event_coin.dds\nquest_item_td_event_invitation.dds\n\nui\\hud\\nametag\\\ntag_flippers.dds\ntag_pearl.dds\ntag_treasure_chest.dds\ntag_treasure_map.dds\n\nv1.5:\nui\\icon\\arcustom\\\ndream_designes_storage.dds\nquest_item_br_event_invitation.dds",
-      "Version": "1.5",
-      "Author": "koalaz_au",
-      "Category": "UI",
-      "UploadDate": "2025-10-15T00:50:57.868",
-      "ThumbnailURL": "[\"https://bqowsaiwpqmztxyujmoa.supabase.co/storage/v1/object/public/addons/_DOWNLOAD_CORE_FIRST__DarkMode_UPDATES_59842433-9250-4ccb-9484-d3685578381c/thumbnail_darkmodeupdate.png\"]",
-      "FileSize": "230 Ko",
-      "Downloads": 668,
-      "Status": "ready-to-use",
-      "UserID": "59842433-9250-4ccb-9484-d3685578381c",
-      "FileURL": "https://bqowsaiwpqmztxyujmoa.supabase.co/storage/v1/object/public/addons/_DOWNLOAD_CORE_FIRST__DarkMode_UPDATES_59842433-9250-4ccb-9484-d3685578381c/ui.zip",
       "Warning": false
     },
     {
