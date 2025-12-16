@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2025-12-16T16:23:41.623Z",
+  "lastUpdated": "2025-12-16T17:20:55.194Z",
   "addons": [
     {
       "ID": "5d8b3392-06ca-439e-9a2c-8192f15660a9",
@@ -59,7 +59,7 @@
       "UploadDate": "2025-09-22T05:36:09.327",
       "ThumbnailURL": "[\"https://bqowsaiwpqmztxyujmoa.supabase.co/storage/v1/object/public/addons/Combat_Closet_59842433-9250-4ccb-9484-d3685578381c/thumbnail_Screenshot_2025-08-10_204909.png\",\"https://bqowsaiwpqmztxyujmoa.supabase.co/storage/v1/object/public/addons/Combat_Closet_59842433-9250-4ccb-9484-d3685578381c/thumbnail_Screenshot_2025-08-10_204927.png\",\"https://bqowsaiwpqmztxyujmoa.supabase.co/storage/v1/object/public/addons/Combat_Closet_59842433-9250-4ccb-9484-d3685578381c/thumbnail_Screenshot_2025-08-10_204940.png\"]",
       "FileSize": "97 Ko",
-      "Downloads": 402,
+      "Downloads": 404,
       "Status": "ready-to-use",
       "UserID": "59842433-9250-4ccb-9484-d3685578381c",
       "FileURL": "https://bqowsaiwpqmztxyujmoa.supabase.co/storage/v1/object/public/addons/Combat_Closet_59842433-9250-4ccb-9484-d3685578381c/combatcloset.zip",
@@ -107,7 +107,7 @@
       "UploadDate": "2025-09-15T10:46:03.148",
       "ThumbnailURL": "[\"https://bqowsaiwpqmztxyujmoa.supabase.co/storage/v1/object/public/addons/Low_Mana_indicator_59842433-9250-4ccb-9484-d3685578381c/thumbnail_Screenshot_2025-09-15_182122.png\",\"https://bqowsaiwpqmztxyujmoa.supabase.co/storage/v1/object/public/addons/Low_Mana_indicator_59842433-9250-4ccb-9484-d3685578381c/thumbnail_Screenshot_2025-09-15_182145.png\"]",
       "FileSize": "10 Ko",
-      "Downloads": 53,
+      "Downloads": 54,
       "Status": "ready-to-use",
       "UserID": "59842433-9250-4ccb-9484-d3685578381c",
       "FileURL": "https://bqowsaiwpqmztxyujmoa.supabase.co/storage/v1/object/public/addons/Low_Mana_indicator_59842433-9250-4ccb-9484-d3685578381c/LowManaNotice.zip",
@@ -267,7 +267,7 @@
       "UploadDate": "2025-07-17T22:26:45.965",
       "ThumbnailURL": "[\"https://bqowsaiwpqmztxyujmoa.supabase.co/storage/v1/object/public/addons/_Read_Instructions__DarkMode_UI_Core_59842433-9250-4ccb-9484-d3685578381c/thumbnail_darkmodecore.png\"]",
       "FileSize": "420 MB",
-      "Downloads": 670,
+      "Downloads": 673,
       "Status": "ready-to-use",
       "UserID": "59842433-9250-4ccb-9484-d3685578381c",
       "FileURL": "https://bqowsaiwpqmztxyujmoa.supabase.co/storage/v1/object/public/addons/_Read_Instructions__DarkMode_UI_Core_59842433-9250-4ccb-9484-d3685578381c/ui.zip",
