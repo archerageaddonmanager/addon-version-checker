@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2025-12-22T07:20:58.006Z",
+  "lastUpdated": "2025-12-22T08:25:24.186Z",
   "addons": [
     {
       "ID": "5d8b3392-06ca-439e-9a2c-8192f15660a9",
@@ -155,7 +155,7 @@
       "UploadDate": "2025-07-20T20:46:17.441",
       "ThumbnailURL": "[\"https://bqowsaiwpqmztxyujmoa.supabase.co/storage/v1/object/public/addons/Talk_Dock_Core_5b56a087-e96d-426e-9584-eebe34ded66c/thumbnail_TalkDockBanner.png\"]",
       "FileSize": "70 MB",
-      "Downloads": 40,
+      "Downloads": 41,
       "Status": "ready-to-use",
       "UserID": "5b56a087-e96d-426e-9584-eebe34ded66c",
       "FileURL": "https://bqowsaiwpqmztxyujmoa.supabase.co/storage/v1/object/public/addons/Talk_Dock_Core_5b56a087-e96d-426e-9584-eebe34ded66c/TalkDockCore.zip",
@@ -171,7 +171,7 @@
       "UploadDate": "2025-07-20T18:31:14.694",
       "ThumbnailURL": "[\"https://bqowsaiwpqmztxyujmoa.supabase.co/storage/v1/object/public/addons/Talk_Dock_5b56a087-e96d-426e-9584-eebe34ded66c/thumbnail_TalkDock.png\",\"https://bqowsaiwpqmztxyujmoa.supabase.co/storage/v1/object/public/addons/Talk_Dock_5b56a087-e96d-426e-9584-eebe34ded66c/thumbnail_in-discord.png\",\"https://bqowsaiwpqmztxyujmoa.supabase.co/storage/v1/object/public/addons/Talk_Dock_5b56a087-e96d-426e-9584-eebe34ded66c/thumbnail_in-game.png\"]",
       "FileSize": "25 KB",
-      "Downloads": 50,
+      "Downloads": 51,
       "Status": "ready-to-use",
       "UserID": "5b56a087-e96d-426e-9584-eebe34ded66c",
       "FileURL": "https://bqowsaiwpqmztxyujmoa.supabase.co/storage/v1/object/public/addons/Talk_Dock_5b56a087-e96d-426e-9584-eebe34ded66c/TalkDockMain.zip",
