@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2025-12-28T15:16:15.342Z",
+  "lastUpdated": "2025-12-28T16:20:00.137Z",
   "addons": [
     {
       "ID": "5d8b3392-06ca-439e-9a2c-8192f15660a9",
@@ -75,7 +75,7 @@
       "UploadDate": "2025-09-22T05:33:41.556",
       "ThumbnailURL": "[\"https://bqowsaiwpqmztxyujmoa.supabase.co/storage/v1/object/public/addons/Folio_2_0_328bd31b-c472-4b64-a740-f92ab3a692dd/thumbnail_Capture_d__cran_2025-07-14_024034.png\",\"https://bqowsaiwpqmztxyujmoa.supabase.co/storage/v1/object/public/addons/Folio_2_0_328bd31b-c472-4b64-a740-f92ab3a692dd/thumbnail_Capture_d__cran_2025-07-14_024050.png\",\"https://bqowsaiwpqmztxyujmoa.supabase.co/storage/v1/object/public/addons/Folio_2_0_328bd31b-c472-4b64-a740-f92ab3a692dd/thumbnail_Capture_d__cran_2025-07-14_024102.png\",\"https://bqowsaiwpqmztxyujmoa.supabase.co/storage/v1/object/public/addons/Folio_2_0_328bd31b-c472-4b64-a740-f92ab3a692dd/thumbnail_Capture_d__cran_2025-07-14_024136.png\"]",
       "FileSize": "85 Ko",
-      "Downloads": 607,
+      "Downloads": 608,
       "Status": "ready-to-use",
       "UserID": "59842433-9250-4ccb-9484-d3685578381c",
       "FileURL": "https://bqowsaiwpqmztxyujmoa.supabase.co/storage/v1/object/public/addons/Folio_2_0_59842433-9250-4ccb-9484-d3685578381c/Folio105.zip",
@@ -267,7 +267,7 @@
       "UploadDate": "2025-07-17T22:26:45.965",
       "ThumbnailURL": "[\"https://bqowsaiwpqmztxyujmoa.supabase.co/storage/v1/object/public/addons/_Read_Instructions__DarkMode_UI_Core_59842433-9250-4ccb-9484-d3685578381c/thumbnail_darkmodecore.png\"]",
       "FileSize": "420 MB",
-      "Downloads": 703,
+      "Downloads": 704,
       "Status": "ready-to-use",
       "UserID": "59842433-9250-4ccb-9484-d3685578381c",
       "FileURL": "https://bqowsaiwpqmztxyujmoa.supabase.co/storage/v1/object/public/addons/_Read_Instructions__DarkMode_UI_Core_59842433-9250-4ccb-9484-d3685578381c/ui.zip",
@@ -299,7 +299,7 @@
       "UploadDate": "2025-07-16T13:47:00.104",
       "ThumbnailURL": "[\"https://bqowsaiwpqmztxyujmoa.supabase.co/storage/v1/object/public/addons/Target_Arrow_328bd31b-c472-4b64-a740-f92ab3a692dd/thumbnail_Capture_d__cran_2025-07-15_204130.png\",\"https://bqowsaiwpqmztxyujmoa.supabase.co/storage/v1/object/public/addons/Target_Arrow_328bd31b-c472-4b64-a740-f92ab3a692dd/thumbnail_Capture_d__cran_2025-07-15_204138.png\",\"https://bqowsaiwpqmztxyujmoa.supabase.co/storage/v1/object/public/addons/Target_Arrow_328bd31b-c472-4b64-a740-f92ab3a692dd/thumbnail_Capture_d__cran_2025-07-15_204144.png\",\"https://bqowsaiwpqmztxyujmoa.supabase.co/storage/v1/object/public/addons/Target_Arrow_328bd31b-c472-4b64-a740-f92ab3a692dd/thumbnail_Capture_d__cran_2025-07-15_204152.png\"]",
       "FileSize": "24 Ko",
-      "Downloads": 271,
+      "Downloads": 272,
       "Status": "ready-to-use",
       "UserID": "59842433-9250-4ccb-9484-d3685578381c",
       "FileURL": "https://bqowsaiwpqmztxyujmoa.supabase.co/storage/v1/object/public/addons/Target_Arrow_328bd31b-c472-4b64-a740-f92ab3a692dd/Arrow.zip",
