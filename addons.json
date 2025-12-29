@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2025-12-29T21:15:49.789Z",
+  "lastUpdated": "2025-12-29T22:16:26.919Z",
   "addons": [
     {
       "ID": "5d8b3392-06ca-439e-9a2c-8192f15660a9",
@@ -27,7 +27,7 @@
       "UploadDate": "2025-12-09T23:06:50.378",
       "ThumbnailURL": "[\"https://bqowsaiwpqmztxyujmoa.supabase.co/storage/v1/object/public/addons/_DOWNLOAD_CORE_FIRST__DarkMode_UPDATES_59842433-9250-4ccb-9484-d3685578381c/thumbnail_darkmodeupdate.png\"]",
       "FileSize": "230 Ko",
-      "Downloads": 1013,
+      "Downloads": 1014,
       "Status": "ready-to-use",
       "UserID": "59842433-9250-4ccb-9484-d3685578381c",
       "FileURL": "https://bqowsaiwpqmztxyujmoa.supabase.co/storage/v1/object/public/addons/_DOWNLOAD_CORE_FIRST__DarkMode_UPDATES_59842433-9250-4ccb-9484-d3685578381c/ui.zip",
@@ -203,7 +203,7 @@
       "UploadDate": "2025-07-19T18:13:41.861",
       "ThumbnailURL": "[\"https://bqowsaiwpqmztxyujmoa.supabase.co/storage/v1/object/public/addons/Speedometer_9ad31166-b936-4bac-afb3-1b5403ae60f1/thumbnail_Capture_decran_2025-06-02_162040.png\",\"https://bqowsaiwpqmztxyujmoa.supabase.co/storage/v1/object/public/addons/Speedometer_9ad31166-b936-4bac-afb3-1b5403ae60f1/thumbnail_image.png\"]",
       "FileSize": "113 Ko",
-      "Downloads": 197,
+      "Downloads": 198,
       "Status": "ready-to-use",
       "UserID": "9ad31166-b936-4bac-afb3-1b5403ae60f1",
       "FileURL": "https://bqowsaiwpqmztxyujmoa.supabase.co/storage/v1/object/public/addons/Speedometer_9ad31166-b936-4bac-afb3-1b5403ae60f1/speedometer.zip",
@@ -267,7 +267,7 @@
       "UploadDate": "2025-07-17T22:26:45.965",
       "ThumbnailURL": "[\"https://bqowsaiwpqmztxyujmoa.supabase.co/storage/v1/object/public/addons/_Read_Instructions__DarkMode_UI_Core_59842433-9250-4ccb-9484-d3685578381c/thumbnail_darkmodecore.png\"]",
       "FileSize": "420 MB",
-      "Downloads": 706,
+      "Downloads": 707,
       "Status": "ready-to-use",
       "UserID": "59842433-9250-4ccb-9484-d3685578381c",
       "FileURL": "https://bqowsaiwpqmztxyujmoa.supabase.co/storage/v1/object/public/addons/_Read_Instructions__DarkMode_UI_Core_59842433-9250-4ccb-9484-d3685578381c/ui.zip",
@@ -299,7 +299,7 @@
       "UploadDate": "2025-07-16T13:47:00.104",
       "ThumbnailURL": "[\"https://bqowsaiwpqmztxyujmoa.supabase.co/storage/v1/object/public/addons/Target_Arrow_328bd31b-c472-4b64-a740-f92ab3a692dd/thumbnail_Capture_d__cran_2025-07-15_204130.png\",\"https://bqowsaiwpqmztxyujmoa.supabase.co/storage/v1/object/public/addons/Target_Arrow_328bd31b-c472-4b64-a740-f92ab3a692dd/thumbnail_Capture_d__cran_2025-07-15_204138.png\",\"https://bqowsaiwpqmztxyujmoa.supabase.co/storage/v1/object/public/addons/Target_Arrow_328bd31b-c472-4b64-a740-f92ab3a692dd/thumbnail_Capture_d__cran_2025-07-15_204144.png\",\"https://bqowsaiwpqmztxyujmoa.supabase.co/storage/v1/object/public/addons/Target_Arrow_328bd31b-c472-4b64-a740-f92ab3a692dd/thumbnail_Capture_d__cran_2025-07-15_204152.png\"]",
       "FileSize": "24 Ko",
-      "Downloads": 272,
+      "Downloads": 273,
       "Status": "ready-to-use",
       "UserID": "59842433-9250-4ccb-9484-d3685578381c",
       "FileURL": "https://bqowsaiwpqmztxyujmoa.supabase.co/storage/v1/object/public/addons/Target_Arrow_328bd31b-c472-4b64-a740-f92ab3a692dd/Arrow.zip",
