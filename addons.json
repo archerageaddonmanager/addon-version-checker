@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-02T04:37:30.621Z",
+  "lastUpdated": "2026-01-02T05:21:58.598Z",
   "addons": [
     {
       "ID": "c1bdeeb2-3c5f-4219-976b-3838a5ca0912",
@@ -27,7 +27,7 @@
       "UploadDate": "2025-12-16T15:38:45.325",
       "ThumbnailURL": "[\"https://bqowsaiwpqmztxyujmoa.supabase.co/storage/v1/object/public/addons/Bag_Counter_59842433-9250-4ccb-9484-d3685578381c/thumbnail_greentext.png\",\"https://bqowsaiwpqmztxyujmoa.supabase.co/storage/v1/object/public/addons/Bag_Counter_59842433-9250-4ccb-9484-d3685578381c/thumbnail_redtext.png\"]",
       "FileSize": "17 Ko",
-      "Downloads": 14,
+      "Downloads": 15,
       "Status": "ready-to-use",
       "UserID": "59842433-9250-4ccb-9484-d3685578381c",
       "FileURL": "https://bqowsaiwpqmztxyujmoa.supabase.co/storage/v1/object/public/addons/Bag_Counter_59842433-9250-4ccb-9484-d3685578381c/bagslotcount.zip",
@@ -59,7 +59,7 @@
       "UploadDate": "2025-09-22T05:36:09.327",
       "ThumbnailURL": "[\"https://bqowsaiwpqmztxyujmoa.supabase.co/storage/v1/object/public/addons/Combat_Closet_59842433-9250-4ccb-9484-d3685578381c/thumbnail_Screenshot_2025-08-10_204909.png\",\"https://bqowsaiwpqmztxyujmoa.supabase.co/storage/v1/object/public/addons/Combat_Closet_59842433-9250-4ccb-9484-d3685578381c/thumbnail_Screenshot_2025-08-10_204927.png\",\"https://bqowsaiwpqmztxyujmoa.supabase.co/storage/v1/object/public/addons/Combat_Closet_59842433-9250-4ccb-9484-d3685578381c/thumbnail_Screenshot_2025-08-10_204940.png\"]",
       "FileSize": "97 Ko",
-      "Downloads": 451,
+      "Downloads": 452,
       "Status": "ready-to-use",
       "UserID": "59842433-9250-4ccb-9484-d3685578381c",
       "FileURL": "https://bqowsaiwpqmztxyujmoa.supabase.co/storage/v1/object/public/addons/Combat_Closet_59842433-9250-4ccb-9484-d3685578381c/combatcloset.zip",
@@ -91,7 +91,7 @@
       "UploadDate": "2025-09-16T23:02:03.467",
       "ThumbnailURL": "[\"https://bqowsaiwpqmztxyujmoa.supabase.co/storage/v1/object/public/addons/Passive_Tracker_328bd31b-c472-4b64-a740-f92ab3a692dd/thumbnail_Capture_d__cran_2025-07-14_031303.png\",\"https://bqowsaiwpqmztxyujmoa.supabase.co/storage/v1/object/public/addons/Passive_Tracker_328bd31b-c472-4b64-a740-f92ab3a692dd/thumbnail_Capture_d__cran_2025-07-14_031325.png\",\"https://bqowsaiwpqmztxyujmoa.supabase.co/storage/v1/object/public/addons/Passive_Tracker_328bd31b-c472-4b64-a740-f92ab3a692dd/thumbnail_Capture_d__cran_2025-07-14_031335.png\",\"https://bqowsaiwpqmztxyujmoa.supabase.co/storage/v1/object/public/addons/Passive_Tracker_328bd31b-c472-4b64-a740-f92ab3a692dd/thumbnail_Capture_d__cran_2025-07-14_031340.png\"]",
       "FileSize": "20 Ko",
-      "Downloads": 220,
+      "Downloads": 221,
       "Status": "ready-to-use",
       "UserID": "59842433-9250-4ccb-9484-d3685578381c",
       "FileURL": "https://bqowsaiwpqmztxyujmoa.supabase.co/storage/v1/object/public/addons/Passive_Tracker_59842433-9250-4ccb-9484-d3685578381c/PassiveTracker.zip",
@@ -299,7 +299,7 @@
       "UploadDate": "2025-07-16T13:47:00.104",
       "ThumbnailURL": "[\"https://bqowsaiwpqmztxyujmoa.supabase.co/storage/v1/object/public/addons/Target_Arrow_328bd31b-c472-4b64-a740-f92ab3a692dd/thumbnail_Capture_d__cran_2025-07-15_204130.png\",\"https://bqowsaiwpqmztxyujmoa.supabase.co/storage/v1/object/public/addons/Target_Arrow_328bd31b-c472-4b64-a740-f92ab3a692dd/thumbnail_Capture_d__cran_2025-07-15_204138.png\",\"https://bqowsaiwpqmztxyujmoa.supabase.co/storage/v1/object/public/addons/Target_Arrow_328bd31b-c472-4b64-a740-f92ab3a692dd/thumbnail_Capture_d__cran_2025-07-15_204144.png\",\"https://bqowsaiwpqmztxyujmoa.supabase.co/storage/v1/object/public/addons/Target_Arrow_328bd31b-c472-4b64-a740-f92ab3a692dd/thumbnail_Capture_d__cran_2025-07-15_204152.png\"]",
       "FileSize": "24 Ko",
-      "Downloads": 278,
+      "Downloads": 279,
       "Status": "ready-to-use",
       "UserID": "59842433-9250-4ccb-9484-d3685578381c",
       "FileURL": "https://bqowsaiwpqmztxyujmoa.supabase.co/storage/v1/object/public/addons/Target_Arrow_328bd31b-c472-4b64-a740-f92ab3a692dd/Arrow.zip",
