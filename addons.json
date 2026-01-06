@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-06T12:36:56.565Z",
+  "lastUpdated": "2026-01-06T13:34:33.356Z",
   "addons": [
     {
       "ID": "c1bdeeb2-3c5f-4219-976b-3838a5ca0912",
@@ -27,7 +27,7 @@
       "UploadDate": "2025-12-16T15:38:45.325",
       "ThumbnailURL": "[\"https://bqowsaiwpqmztxyujmoa.supabase.co/storage/v1/object/public/addons/Bag_Counter_59842433-9250-4ccb-9484-d3685578381c/thumbnail_greentext.png\",\"https://bqowsaiwpqmztxyujmoa.supabase.co/storage/v1/object/public/addons/Bag_Counter_59842433-9250-4ccb-9484-d3685578381c/thumbnail_redtext.png\"]",
       "FileSize": "17 Ko",
-      "Downloads": 18,
+      "Downloads": 19,
       "Status": "ready-to-use",
       "UserID": "59842433-9250-4ccb-9484-d3685578381c",
       "FileURL": "https://bqowsaiwpqmztxyujmoa.supabase.co/storage/v1/object/public/addons/Bag_Counter_59842433-9250-4ccb-9484-d3685578381c/bagslotcount.zip",
@@ -75,7 +75,7 @@
       "UploadDate": "2025-09-22T05:33:41.556",
       "ThumbnailURL": "[\"https://bqowsaiwpqmztxyujmoa.supabase.co/storage/v1/object/public/addons/Folio_2_0_328bd31b-c472-4b64-a740-f92ab3a692dd/thumbnail_Capture_d__cran_2025-07-14_024034.png\",\"https://bqowsaiwpqmztxyujmoa.supabase.co/storage/v1/object/public/addons/Folio_2_0_328bd31b-c472-4b64-a740-f92ab3a692dd/thumbnail_Capture_d__cran_2025-07-14_024050.png\",\"https://bqowsaiwpqmztxyujmoa.supabase.co/storage/v1/object/public/addons/Folio_2_0_328bd31b-c472-4b64-a740-f92ab3a692dd/thumbnail_Capture_d__cran_2025-07-14_024102.png\",\"https://bqowsaiwpqmztxyujmoa.supabase.co/storage/v1/object/public/addons/Folio_2_0_328bd31b-c472-4b64-a740-f92ab3a692dd/thumbnail_Capture_d__cran_2025-07-14_024136.png\"]",
       "FileSize": "85 Ko",
-      "Downloads": 640,
+      "Downloads": 642,
       "Status": "ready-to-use",
       "UserID": "59842433-9250-4ccb-9484-d3685578381c",
       "FileURL": "https://bqowsaiwpqmztxyujmoa.supabase.co/storage/v1/object/public/addons/Folio_2_0_59842433-9250-4ccb-9484-d3685578381c/Folio105.zip",
@@ -219,7 +219,7 @@
       "UploadDate": "2025-07-18T21:55:29.922",
       "ThumbnailURL": "[\"https://bqowsaiwpqmztxyujmoa.supabase.co/storage/v1/object/public/addons/Raid_Notification_328bd31b-c472-4b64-a740-f92ab3a692dd/thumbnail_Capture_d__cran_2025-07-14_032519.png\"]",
       "FileSize": "24 Ko",
-      "Downloads": 328,
+      "Downloads": 329,
       "Status": "ready-to-use",
       "UserID": "59842433-9250-4ccb-9484-d3685578381c",
       "FileURL": "https://bqowsaiwpqmztxyujmoa.supabase.co/storage/v1/object/public/addons/Raid_Notification_328bd31b-c472-4b64-a740-f92ab3a692dd/RaidNotification.zip",
@@ -363,7 +363,7 @@
       "UploadDate": "2025-07-15T00:53:30.159",
       "ThumbnailURL": "[\"https://bqowsaiwpqmztxyujmoa.supabase.co/storage/v1/object/public/addons/Raid_Schedules_328bd31b-c472-4b64-a740-f92ab3a692dd/thumbnail_Capture_d__cran_2025-07-14_032221.png\",\"https://bqowsaiwpqmztxyujmoa.supabase.co/storage/v1/object/public/addons/Raid_Schedules_328bd31b-c472-4b64-a740-f92ab3a692dd/thumbnail_Capture_d__cran_2025-07-14_032228.png\"]",
       "FileSize": "8.5 Mb",
-      "Downloads": 299,
+      "Downloads": 300,
       "Status": "ready-to-use",
       "UserID": "59842433-9250-4ccb-9484-d3685578381c",
       "FileURL": "https://bqowsaiwpqmztxyujmoa.supabase.co/storage/v1/object/public/addons/Raid_Schedules_328bd31b-c472-4b64-a740-f92ab3a692dd/RaidSchedules.zip",
