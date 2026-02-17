@@ -1,22 +1,6 @@
 {
-  "lastUpdated": "2026-02-17T11:36:27.900Z",
+  "lastUpdated": "2026-02-17T12:54:53.331Z",
   "addons": [
-    {
-      "ID": "c1bdeeb2-3c5f-4219-976b-3838a5ca0912",
-      "Name": "DarkMode UPDATES (DOWNLOAD CORE FIRST)",
-      "Description": "This addon will be used for updates to\n\n1. stop everyone having to download 420MB of data every time a patch releases\n2. not interfere with their own custom changes they may have made.\n\nChangelog.\nv1.4:\nAdded \nui\\icon\\arcustom\\\ncustom_deco_golen_chest.dds\nicon_item_fatcat.dds\nicon_item_red_lion.dds\nicon_title_flippers.dds\nicon_title_pearl.dds\nicon_title_treasure_chest.dds\nicon_title_treasure_map.dds\nquest_item_b_pearl.dds\nquest_item_daru_charm.dds\nquest_item_necklace_recipe.dds\nquest_item_pearl_necklace.dds\nquest_item_pearl_string.dds\nquest_item_shark_head.dds\nquest_item_td_event_coin.dds\nquest_item_td_event_invitation.dds\n\nui\\hud\\nametag\\\ntag_flippers.dds\ntag_pearl.dds\ntag_treasure_chest.dds\ntag_treasure_map.dds\n\nv1.5:\nui\\icon\\arcustom\\\ndream_designes_storage.dds\nquest_item_br_event_invitation.dds\n\nV1.6:\nui\\icon\\arcustom\\custom_deco_basket_cat5.dds\n\nV1.7:\nMaintenance added .dds files\nModified default.dds to give top of windows a cleaner look\n\nV1.8:\nAdditional .dds files added, check dev chat for list",
-      "Version": "1.9",
-      "Author": "koalaz_au",
-      "Category": "UI",
-      "UploadDate": "2025-12-31T12:54:29.97",
-      "ThumbnailURL": "[\"https://bqowsaiwpqmztxyujmoa.supabase.co/storage/v1/object/public/addons/_DOWNLOAD_CORE_FIRST__DarkMode_UPDATES_59842433-9250-4ccb-9484-d3685578381c/thumbnail_darkmodeupdate.png\"]",
-      "FileSize": "230 Ko",
-      "Downloads": 1149,
-      "Status": "ready-to-use",
-      "UserID": "59842433-9250-4ccb-9484-d3685578381c",
-      "FileURL": "https://bqowsaiwpqmztxyujmoa.supabase.co/storage/v1/object/public/addons/_DOWNLOAD_CORE_FIRST__DarkMode_UPDATES_59842433-9250-4ccb-9484-d3685578381c/ui.zip",
-      "Warning": false
-    },
     {
       "ID": "5d8b3392-06ca-439e-9a2c-8192f15660a9",
       "Name": "Bag Counter",
@@ -235,7 +219,7 @@
       "UploadDate": "2025-07-18T09:34:46.667",
       "ThumbnailURL": "[\"https://bqowsaiwpqmztxyujmoa.supabase.co/storage/v1/object/public/addons/ImmortalWardenTraker_328bd31b-c472-4b64-a740-f92ab3a692dd/thumbnail_Capture_d__cran_2025-07-14_032931.png\",\"https://bqowsaiwpqmztxyujmoa.supabase.co/storage/v1/object/public/addons/ImmortalWardenTraker_328bd31b-c472-4b64-a740-f92ab3a692dd/thumbnail_Capture_d__cran_2025-07-14_032938.png\"]",
       "FileSize": "389 KB",
-      "Downloads": 151,
+      "Downloads": 152,
       "Status": "ready-to-use",
       "UserID": "59842433-9250-4ccb-9484-d3685578381c",
       "FileURL": "https://bqowsaiwpqmztxyujmoa.supabase.co/storage/v1/object/public/addons/Immortal_Warden_Traker_328bd31b-c472-4b64-a740-f92ab3a692dd/ImmortalWardenTraker.zip",
@@ -255,22 +239,6 @@
       "Status": "ready-to-use",
       "UserID": "59842433-9250-4ccb-9484-d3685578381c",
       "FileURL": "https://bqowsaiwpqmztxyujmoa.supabase.co/storage/v1/object/public/addons/Default_Appearances_Changer_59842433-9250-4ccb-9484-d3685578381c/powerranger.zip",
-      "Warning": false
-    },
-    {
-      "ID": "db30bb5b-9cee-43fa-9fee-5a6df2d2536d",
-      "Name": "(Read Instructions) DarkMode UI Core",
-      "Description": "Some prep work required\n\nfirst step: in-game go to settings-> addons and enable ui customization\nsecond step: close game\nthird step: preferably delete your existing ui folder inside documents/archerage/addon and then install this addon\n\nThis is just the CORE aka the initial download of the UI - I will include an UPDATE addition that will solely be for updates so i am not overwriting peoples custom UI changes, be sure to install that so you can see any additional updates.",
-      "Version": "1.0",
-      "Author": "koalaz_au",
-      "Category": "UI",
-      "UploadDate": "2025-07-17T22:26:45.965",
-      "ThumbnailURL": "[\"https://bqowsaiwpqmztxyujmoa.supabase.co/storage/v1/object/public/addons/_Read_Instructions__DarkMode_UI_Core_59842433-9250-4ccb-9484-d3685578381c/thumbnail_darkmodecore.png\"]",
-      "FileSize": "420 MB",
-      "Downloads": 843,
-      "Status": "ready-to-use",
-      "UserID": "59842433-9250-4ccb-9484-d3685578381c",
-      "FileURL": "https://bqowsaiwpqmztxyujmoa.supabase.co/storage/v1/object/public/addons/_Read_Instructions__DarkMode_UI_Core_59842433-9250-4ccb-9484-d3685578381c/ui.zip",
       "Warning": false
     },
     {
@@ -299,7 +267,7 @@
       "UploadDate": "2025-07-16T13:47:00.104",
       "ThumbnailURL": "[\"https://bqowsaiwpqmztxyujmoa.supabase.co/storage/v1/object/public/addons/Target_Arrow_328bd31b-c472-4b64-a740-f92ab3a692dd/thumbnail_Capture_d__cran_2025-07-15_204130.png\",\"https://bqowsaiwpqmztxyujmoa.supabase.co/storage/v1/object/public/addons/Target_Arrow_328bd31b-c472-4b64-a740-f92ab3a692dd/thumbnail_Capture_d__cran_2025-07-15_204138.png\",\"https://bqowsaiwpqmztxyujmoa.supabase.co/storage/v1/object/public/addons/Target_Arrow_328bd31b-c472-4b64-a740-f92ab3a692dd/thumbnail_Capture_d__cran_2025-07-15_204144.png\",\"https://bqowsaiwpqmztxyujmoa.supabase.co/storage/v1/object/public/addons/Target_Arrow_328bd31b-c472-4b64-a740-f92ab3a692dd/thumbnail_Capture_d__cran_2025-07-15_204152.png\"]",
       "FileSize": "24 Ko",
-      "Downloads": 321,
+      "Downloads": 322,
       "Status": "ready-to-use",
       "UserID": "59842433-9250-4ccb-9484-d3685578381c",
       "FileURL": "https://bqowsaiwpqmztxyujmoa.supabase.co/storage/v1/object/public/addons/Target_Arrow_328bd31b-c472-4b64-a740-f92ab3a692dd/Arrow.zip",
