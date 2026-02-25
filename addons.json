@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-02-24T23:27:38.193Z",
+  "lastUpdated": "2026-02-25T01:51:28.538Z",
   "addons": [
     {
       "ID": "5d8b3392-06ca-439e-9a2c-8192f15660a9",
@@ -283,7 +283,7 @@
       "UploadDate": "2025-07-15T19:23:01.953",
       "ThumbnailURL": "[\"https://bqowsaiwpqmztxyujmoa.supabase.co/storage/v1/object/public/addons/Expiration_Checker_328bd31b-c472-4b64-a740-f92ab3a692dd/thumbnail_Capture_d__cran_2025-07-14_034902.png\",\"https://bqowsaiwpqmztxyujmoa.supabase.co/storage/v1/object/public/addons/Expiration_Checker_328bd31b-c472-4b64-a740-f92ab3a692dd/thumbnail_Capture_d__cran_2025-07-14_034911.png\",\"https://bqowsaiwpqmztxyujmoa.supabase.co/storage/v1/object/public/addons/Expiration_Checker_328bd31b-c472-4b64-a740-f92ab3a692dd/thumbnail_Capture_d__cran_2025-07-14_034918.png\",\"https://bqowsaiwpqmztxyujmoa.supabase.co/storage/v1/object/public/addons/Expiration_Checker_328bd31b-c472-4b64-a740-f92ab3a692dd/thumbnail_Capture_d__cran_2025-07-14_034935.png\"]",
       "FileSize": "30 Ko",
-      "Downloads": 221,
+      "Downloads": 222,
       "Status": "ready-to-use",
       "UserID": "59842433-9250-4ccb-9484-d3685578381c",
       "FileURL": "https://bqowsaiwpqmztxyujmoa.supabase.co/storage/v1/object/public/addons/Expiration_Checker_328bd31b-c472-4b64-a740-f92ab3a692dd/ExpirationChecker.zip",
@@ -315,7 +315,7 @@
       "UploadDate": "2025-07-15T00:53:39.804",
       "ThumbnailURL": "[\"https://bqowsaiwpqmztxyujmoa.supabase.co/storage/v1/object/public/addons/You_Will_Die_Soon_328bd31b-c472-4b64-a740-f92ab3a692dd/thumbnail_Capture_d__cran_2025-07-14_033830.png\",\"https://bqowsaiwpqmztxyujmoa.supabase.co/storage/v1/object/public/addons/You_Will_Die_Soon_328bd31b-c472-4b64-a740-f92ab3a692dd/thumbnail_Capture_d__cran_2025-07-14_033835.png\",\"https://bqowsaiwpqmztxyujmoa.supabase.co/storage/v1/object/public/addons/You_Will_Die_Soon_328bd31b-c472-4b64-a740-f92ab3a692dd/thumbnail_Capture_d__cran_2025-07-14_033841.png\"]",
       "FileSize": "336 Ko",
-      "Downloads": 207,
+      "Downloads": 208,
       "Status": "ready-to-use",
       "UserID": "59842433-9250-4ccb-9484-d3685578381c",
       "FileURL": "https://bqowsaiwpqmztxyujmoa.supabase.co/storage/v1/object/public/addons/You_Will_Die_Soon_328bd31b-c472-4b64-a740-f92ab3a692dd/YouWillDieSoon.zip",
