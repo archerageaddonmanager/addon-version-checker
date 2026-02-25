@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-02-25T09:50:38.740Z",
+  "lastUpdated": "2026-02-25T10:46:01.188Z",
   "addons": [
     {
       "ID": "5d8b3392-06ca-439e-9a2c-8192f15660a9",
@@ -11,7 +11,7 @@
       "UploadDate": "2025-12-16T15:38:45.325",
       "ThumbnailURL": "[\"https://bqowsaiwpqmztxyujmoa.supabase.co/storage/v1/object/public/addons/Bag_Counter_59842433-9250-4ccb-9484-d3685578381c/thumbnail_greentext.png\",\"https://bqowsaiwpqmztxyujmoa.supabase.co/storage/v1/object/public/addons/Bag_Counter_59842433-9250-4ccb-9484-d3685578381c/thumbnail_redtext.png\"]",
       "FileSize": "17 Ko",
-      "Downloads": 41,
+      "Downloads": 42,
       "Status": "ready-to-use",
       "UserID": "59842433-9250-4ccb-9484-d3685578381c",
       "FileURL": "https://bqowsaiwpqmztxyujmoa.supabase.co/storage/v1/object/public/addons/Bag_Counter_59842433-9250-4ccb-9484-d3685578381c/bagslotcount.zip",
@@ -123,7 +123,7 @@
       "UploadDate": "2025-07-24T10:26:19.497",
       "ThumbnailURL": "[\"https://bqowsaiwpqmztxyujmoa.supabase.co/storage/v1/object/public/addons/Bag_and_Item_Stat_Scanner_59842433-9250-4ccb-9484-d3685578381c/thumbnail_Screenshot_2025-07-24_202504.png\"]",
       "FileSize": "23 Ko",
-      "Downloads": 51,
+      "Downloads": 52,
       "Status": "ready-to-use",
       "UserID": "59842433-9250-4ccb-9484-d3685578381c",
       "FileURL": "https://bqowsaiwpqmztxyujmoa.supabase.co/storage/v1/object/public/addons/Bag_and_Item_Stat_Scanner_59842433-9250-4ccb-9484-d3685578381c/baganditemscanner.zip",
