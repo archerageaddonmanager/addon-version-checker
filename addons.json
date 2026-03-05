@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-03-05T15:46:12.905Z",
+  "lastUpdated": "2026-03-05T17:59:23.080Z",
   "addons": [
     {
       "ID": "5d8b3392-06ca-439e-9a2c-8192f15660a9",
@@ -107,7 +107,7 @@
       "UploadDate": "2025-07-25T11:33:09.602",
       "ThumbnailURL": "[\"https://bqowsaiwpqmztxyujmoa.supabase.co/storage/v1/object/public/addons/Treasure_Map_Hunter_328bd31b-c472-4b64-a740-f92ab3a692dd/thumbnail_Capture_d__cran_2025-07-19_182024.png\",\"https://bqowsaiwpqmztxyujmoa.supabase.co/storage/v1/object/public/addons/Treasure_Map_Hunter_328bd31b-c472-4b64-a740-f92ab3a692dd/thumbnail_Capture_d__cran_2025-07-19_182051.png\",\"https://bqowsaiwpqmztxyujmoa.supabase.co/storage/v1/object/public/addons/Treasure_Map_Hunter_328bd31b-c472-4b64-a740-f92ab3a692dd/thumbnail_Capture_d__cran_2025-07-19_182121.png\",\"https://bqowsaiwpqmztxyujmoa.supabase.co/storage/v1/object/public/addons/Treasure_Map_Hunter_328bd31b-c472-4b64-a740-f92ab3a692dd/thumbnail_Capture_d__cran_2025-07-19_182136.png\",\"https://bqowsaiwpqmztxyujmoa.supabase.co/storage/v1/object/public/addons/Treasure_Map_Hunter_328bd31b-c472-4b64-a740-f92ab3a692dd/thumbnail_Capture_d__cran_2025-07-23_161805.png\"]",
       "FileSize": "48 Ko",
-      "Downloads": 385,
+      "Downloads": 386,
       "Status": "ready-to-use",
       "UserID": "59842433-9250-4ccb-9484-d3685578381c",
       "FileURL": "https://bqowsaiwpqmztxyujmoa.supabase.co/storage/v1/object/public/addons/Treasure_Map_Hunter_59842433-9250-4ccb-9484-d3685578381c/TreasureMapHunter.zip",
@@ -139,7 +139,7 @@
       "UploadDate": "2025-07-20T20:46:17.441",
       "ThumbnailURL": "[\"https://bqowsaiwpqmztxyujmoa.supabase.co/storage/v1/object/public/addons/Talk_Dock_Core_5b56a087-e96d-426e-9584-eebe34ded66c/thumbnail_TalkDockBanner.png\"]",
       "FileSize": "70 MB",
-      "Downloads": 45,
+      "Downloads": 46,
       "Status": "ready-to-use",
       "UserID": "5b56a087-e96d-426e-9584-eebe34ded66c",
       "FileURL": "https://bqowsaiwpqmztxyujmoa.supabase.co/storage/v1/object/public/addons/Talk_Dock_Core_5b56a087-e96d-426e-9584-eebe34ded66c/TalkDockCore.zip",
@@ -155,7 +155,7 @@
       "UploadDate": "2025-07-20T18:31:14.694",
       "ThumbnailURL": "[\"https://bqowsaiwpqmztxyujmoa.supabase.co/storage/v1/object/public/addons/Talk_Dock_5b56a087-e96d-426e-9584-eebe34ded66c/thumbnail_TalkDock.png\",\"https://bqowsaiwpqmztxyujmoa.supabase.co/storage/v1/object/public/addons/Talk_Dock_5b56a087-e96d-426e-9584-eebe34ded66c/thumbnail_in-discord.png\",\"https://bqowsaiwpqmztxyujmoa.supabase.co/storage/v1/object/public/addons/Talk_Dock_5b56a087-e96d-426e-9584-eebe34ded66c/thumbnail_in-game.png\"]",
       "FileSize": "25 KB",
-      "Downloads": 56,
+      "Downloads": 58,
       "Status": "ready-to-use",
       "UserID": "5b56a087-e96d-426e-9584-eebe34ded66c",
       "FileURL": "https://bqowsaiwpqmztxyujmoa.supabase.co/storage/v1/object/public/addons/Talk_Dock_5b56a087-e96d-426e-9584-eebe34ded66c/TalkDockMain.zip",
@@ -267,7 +267,7 @@
       "UploadDate": "2025-07-16T13:47:00.104",
       "ThumbnailURL": "[\"https://bqowsaiwpqmztxyujmoa.supabase.co/storage/v1/object/public/addons/Target_Arrow_328bd31b-c472-4b64-a740-f92ab3a692dd/thumbnail_Capture_d__cran_2025-07-15_204130.png\",\"https://bqowsaiwpqmztxyujmoa.supabase.co/storage/v1/object/public/addons/Target_Arrow_328bd31b-c472-4b64-a740-f92ab3a692dd/thumbnail_Capture_d__cran_2025-07-15_204138.png\",\"https://bqowsaiwpqmztxyujmoa.supabase.co/storage/v1/object/public/addons/Target_Arrow_328bd31b-c472-4b64-a740-f92ab3a692dd/thumbnail_Capture_d__cran_2025-07-15_204144.png\",\"https://bqowsaiwpqmztxyujmoa.supabase.co/storage/v1/object/public/addons/Target_Arrow_328bd31b-c472-4b64-a740-f92ab3a692dd/thumbnail_Capture_d__cran_2025-07-15_204152.png\"]",
       "FileSize": "24 Ko",
-      "Downloads": 345,
+      "Downloads": 346,
       "Status": "ready-to-use",
       "UserID": "59842433-9250-4ccb-9484-d3685578381c",
       "FileURL": "https://bqowsaiwpqmztxyujmoa.supabase.co/storage/v1/object/public/addons/Target_Arrow_328bd31b-c472-4b64-a740-f92ab3a692dd/Arrow.zip",
