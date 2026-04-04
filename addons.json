@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-04T17:25:47.436Z",
+  "lastUpdated": "2026-04-04T18:36:06.145Z",
   "addons": [
     {
       "ID": "a65ad929-9ac0-4649-9da3-133cde576a21",
@@ -27,7 +27,7 @@
       "UploadDate": "2026-04-03T11:55:48.484",
       "ThumbnailURL": "[\"https://bqowsaiwpqmztxyujmoa.supabase.co/storage/v1/object/public/addons/DarkMode_Updater_Only_59842433-9250-4ccb-9484-d3685578381c/thumbnail_ChatGPT_Image_Apr_3__2026__09_55_19_PM.png\"]",
       "FileSize": "50 Ko",
-      "Downloads": 2,
+      "Downloads": 3,
       "Status": "ready-to-use",
       "UserID": "59842433-9250-4ccb-9484-d3685578381c",
       "FileURL": "https://bqowsaiwpqmztxyujmoa.supabase.co/storage/v1/object/public/addons/DarkMode_Updater_Only_59842433-9250-4ccb-9484-d3685578381c/ui.zip",
@@ -139,7 +139,7 @@
       "UploadDate": "2025-07-25T11:33:09.602",
       "ThumbnailURL": "[\"https://bqowsaiwpqmztxyujmoa.supabase.co/storage/v1/object/public/addons/Treasure_Map_Hunter_328bd31b-c472-4b64-a740-f92ab3a692dd/thumbnail_Capture_d__cran_2025-07-19_182024.png\",\"https://bqowsaiwpqmztxyujmoa.supabase.co/storage/v1/object/public/addons/Treasure_Map_Hunter_328bd31b-c472-4b64-a740-f92ab3a692dd/thumbnail_Capture_d__cran_2025-07-19_182051.png\",\"https://bqowsaiwpqmztxyujmoa.supabase.co/storage/v1/object/public/addons/Treasure_Map_Hunter_328bd31b-c472-4b64-a740-f92ab3a692dd/thumbnail_Capture_d__cran_2025-07-19_182121.png\",\"https://bqowsaiwpqmztxyujmoa.supabase.co/storage/v1/object/public/addons/Treasure_Map_Hunter_328bd31b-c472-4b64-a740-f92ab3a692dd/thumbnail_Capture_d__cran_2025-07-19_182136.png\",\"https://bqowsaiwpqmztxyujmoa.supabase.co/storage/v1/object/public/addons/Treasure_Map_Hunter_328bd31b-c472-4b64-a740-f92ab3a692dd/thumbnail_Capture_d__cran_2025-07-23_161805.png\"]",
       "FileSize": "48 Ko",
-      "Downloads": 427,
+      "Downloads": 428,
       "Status": "ready-to-use",
       "UserID": "59842433-9250-4ccb-9484-d3685578381c",
       "FileURL": "https://bqowsaiwpqmztxyujmoa.supabase.co/storage/v1/object/public/addons/Treasure_Map_Hunter_59842433-9250-4ccb-9484-d3685578381c/TreasureMapHunter.zip",
