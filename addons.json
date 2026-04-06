@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-06T11:44:20.929Z",
+  "lastUpdated": "2026-04-06T13:01:20.008Z",
   "addons": [
     {
       "ID": "a65ad929-9ac0-4649-9da3-133cde576a21",
@@ -219,7 +219,7 @@
       "UploadDate": "2025-07-19T18:13:41.861",
       "ThumbnailURL": "[\"https://bqowsaiwpqmztxyujmoa.supabase.co/storage/v1/object/public/addons/Speedometer_9ad31166-b936-4bac-afb3-1b5403ae60f1/thumbnail_Capture_decran_2025-06-02_162040.png\",\"https://bqowsaiwpqmztxyujmoa.supabase.co/storage/v1/object/public/addons/Speedometer_9ad31166-b936-4bac-afb3-1b5403ae60f1/thumbnail_image.png\"]",
       "FileSize": "113 Ko",
-      "Downloads": 302,
+      "Downloads": 303,
       "Status": "ready-to-use",
       "UserID": "9ad31166-b936-4bac-afb3-1b5403ae60f1",
       "FileURL": "https://bqowsaiwpqmztxyujmoa.supabase.co/storage/v1/object/public/addons/Speedometer_9ad31166-b936-4bac-afb3-1b5403ae60f1/speedometer.zip",
@@ -363,7 +363,7 @@
       "UploadDate": "2025-07-15T00:53:30.159",
       "ThumbnailURL": "[\"https://bqowsaiwpqmztxyujmoa.supabase.co/storage/v1/object/public/addons/Raid_Schedules_328bd31b-c472-4b64-a740-f92ab3a692dd/thumbnail_Capture_d__cran_2025-07-14_032221.png\",\"https://bqowsaiwpqmztxyujmoa.supabase.co/storage/v1/object/public/addons/Raid_Schedules_328bd31b-c472-4b64-a740-f92ab3a692dd/thumbnail_Capture_d__cran_2025-07-14_032228.png\"]",
       "FileSize": "8.5 Mb",
-      "Downloads": 450,
+      "Downloads": 452,
       "Status": "ready-to-use",
       "UserID": "59842433-9250-4ccb-9484-d3685578381c",
       "FileURL": "https://bqowsaiwpqmztxyujmoa.supabase.co/storage/v1/object/public/addons/Raid_Schedules_328bd31b-c472-4b64-a740-f92ab3a692dd/RaidSchedules.zip",
