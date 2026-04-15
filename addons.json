@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-15T16:58:28.582Z",
+  "lastUpdated": "2026-04-15T18:07:09.381Z",
   "addons": [
     {
       "ID": "a65ad929-9ac0-4649-9da3-133cde576a21",
@@ -139,7 +139,7 @@
       "UploadDate": "2025-07-25T11:33:09.602",
       "ThumbnailURL": "[\"https://bqowsaiwpqmztxyujmoa.supabase.co/storage/v1/object/public/addons/Treasure_Map_Hunter_328bd31b-c472-4b64-a740-f92ab3a692dd/thumbnail_Capture_d__cran_2025-07-19_182024.png\",\"https://bqowsaiwpqmztxyujmoa.supabase.co/storage/v1/object/public/addons/Treasure_Map_Hunter_328bd31b-c472-4b64-a740-f92ab3a692dd/thumbnail_Capture_d__cran_2025-07-19_182051.png\",\"https://bqowsaiwpqmztxyujmoa.supabase.co/storage/v1/object/public/addons/Treasure_Map_Hunter_328bd31b-c472-4b64-a740-f92ab3a692dd/thumbnail_Capture_d__cran_2025-07-19_182121.png\",\"https://bqowsaiwpqmztxyujmoa.supabase.co/storage/v1/object/public/addons/Treasure_Map_Hunter_328bd31b-c472-4b64-a740-f92ab3a692dd/thumbnail_Capture_d__cran_2025-07-19_182136.png\",\"https://bqowsaiwpqmztxyujmoa.supabase.co/storage/v1/object/public/addons/Treasure_Map_Hunter_328bd31b-c472-4b64-a740-f92ab3a692dd/thumbnail_Capture_d__cran_2025-07-23_161805.png\"]",
       "FileSize": "48 Ko",
-      "Downloads": 440,
+      "Downloads": 441,
       "Status": "ready-to-use",
       "UserID": "59842433-9250-4ccb-9484-d3685578381c",
       "FileURL": "https://bqowsaiwpqmztxyujmoa.supabase.co/storage/v1/object/public/addons/Treasure_Map_Hunter_59842433-9250-4ccb-9484-d3685578381c/TreasureMapHunter.zip",
@@ -283,7 +283,7 @@
       "UploadDate": "2025-07-17T19:46:28.917",
       "ThumbnailURL": "[\"https://bqowsaiwpqmztxyujmoa.supabase.co/storage/v1/object/public/addons/Allow_200_Max_Players_328bd31b-c472-4b64-a740-f92ab3a692dd/thumbnail_Capture_d__cran_2025-07-14_023707.png\"]",
       "FileSize": "12 Ko",
-      "Downloads": 314,
+      "Downloads": 315,
       "Status": "ready-to-use",
       "UserID": "59842433-9250-4ccb-9484-d3685578381c",
       "FileURL": "https://bqowsaiwpqmztxyujmoa.supabase.co/storage/v1/object/public/addons/Allow_200_Max_Players_328bd31b-c472-4b64-a740-f92ab3a692dd/allow200maxplayers.zip",
