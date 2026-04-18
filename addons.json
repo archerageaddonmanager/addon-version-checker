@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-18T18:41:27.276Z",
+  "lastUpdated": "2026-04-18T19:37:37.727Z",
   "addons": [
     {
       "ID": "a65ad929-9ac0-4649-9da3-133cde576a21",
@@ -107,7 +107,7 @@
       "UploadDate": "2025-09-16T23:02:03.467",
       "ThumbnailURL": "[\"https://bqowsaiwpqmztxyujmoa.supabase.co/storage/v1/object/public/addons/Passive_Tracker_328bd31b-c472-4b64-a740-f92ab3a692dd/thumbnail_Capture_d__cran_2025-07-14_031303.png\",\"https://bqowsaiwpqmztxyujmoa.supabase.co/storage/v1/object/public/addons/Passive_Tracker_328bd31b-c472-4b64-a740-f92ab3a692dd/thumbnail_Capture_d__cran_2025-07-14_031325.png\",\"https://bqowsaiwpqmztxyujmoa.supabase.co/storage/v1/object/public/addons/Passive_Tracker_328bd31b-c472-4b64-a740-f92ab3a692dd/thumbnail_Capture_d__cran_2025-07-14_031335.png\",\"https://bqowsaiwpqmztxyujmoa.supabase.co/storage/v1/object/public/addons/Passive_Tracker_328bd31b-c472-4b64-a740-f92ab3a692dd/thumbnail_Capture_d__cran_2025-07-14_031340.png\"]",
       "FileSize": "20 Ko",
-      "Downloads": 283,
+      "Downloads": 284,
       "Status": "ready-to-use",
       "UserID": "59842433-9250-4ccb-9484-d3685578381c",
       "FileURL": "https://bqowsaiwpqmztxyujmoa.supabase.co/storage/v1/object/public/addons/Passive_Tracker_59842433-9250-4ccb-9484-d3685578381c/PassiveTracker.zip",
@@ -123,7 +123,7 @@
       "UploadDate": "2025-09-15T10:46:03.148",
       "ThumbnailURL": "[\"https://bqowsaiwpqmztxyujmoa.supabase.co/storage/v1/object/public/addons/Low_Mana_indicator_59842433-9250-4ccb-9484-d3685578381c/thumbnail_Screenshot_2025-09-15_182122.png\",\"https://bqowsaiwpqmztxyujmoa.supabase.co/storage/v1/object/public/addons/Low_Mana_indicator_59842433-9250-4ccb-9484-d3685578381c/thumbnail_Screenshot_2025-09-15_182145.png\"]",
       "FileSize": "10 Ko",
-      "Downloads": 86,
+      "Downloads": 87,
       "Status": "ready-to-use",
       "UserID": "59842433-9250-4ccb-9484-d3685578381c",
       "FileURL": "https://bqowsaiwpqmztxyujmoa.supabase.co/storage/v1/object/public/addons/Low_Mana_indicator_59842433-9250-4ccb-9484-d3685578381c/LowManaNotice.zip",
@@ -347,7 +347,7 @@
       "UploadDate": "2025-07-15T00:53:39.804",
       "ThumbnailURL": "[\"https://bqowsaiwpqmztxyujmoa.supabase.co/storage/v1/object/public/addons/You_Will_Die_Soon_328bd31b-c472-4b64-a740-f92ab3a692dd/thumbnail_Capture_d__cran_2025-07-14_033830.png\",\"https://bqowsaiwpqmztxyujmoa.supabase.co/storage/v1/object/public/addons/You_Will_Die_Soon_328bd31b-c472-4b64-a740-f92ab3a692dd/thumbnail_Capture_d__cran_2025-07-14_033835.png\",\"https://bqowsaiwpqmztxyujmoa.supabase.co/storage/v1/object/public/addons/You_Will_Die_Soon_328bd31b-c472-4b64-a740-f92ab3a692dd/thumbnail_Capture_d__cran_2025-07-14_033841.png\"]",
       "FileSize": "336 Ko",
-      "Downloads": 232,
+      "Downloads": 233,
       "Status": "ready-to-use",
       "UserID": "59842433-9250-4ccb-9484-d3685578381c",
       "FileURL": "https://bqowsaiwpqmztxyujmoa.supabase.co/storage/v1/object/public/addons/You_Will_Die_Soon_328bd31b-c472-4b64-a740-f92ab3a692dd/YouWillDieSoon.zip",
@@ -363,7 +363,7 @@
       "UploadDate": "2025-07-15T00:53:30.159",
       "ThumbnailURL": "[\"https://bqowsaiwpqmztxyujmoa.supabase.co/storage/v1/object/public/addons/Raid_Schedules_328bd31b-c472-4b64-a740-f92ab3a692dd/thumbnail_Capture_d__cran_2025-07-14_032221.png\",\"https://bqowsaiwpqmztxyujmoa.supabase.co/storage/v1/object/public/addons/Raid_Schedules_328bd31b-c472-4b64-a740-f92ab3a692dd/thumbnail_Capture_d__cran_2025-07-14_032228.png\"]",
       "FileSize": "8.5 Mb",
-      "Downloads": 464,
+      "Downloads": 465,
       "Status": "ready-to-use",
       "UserID": "59842433-9250-4ccb-9484-d3685578381c",
       "FileURL": "https://bqowsaiwpqmztxyujmoa.supabase.co/storage/v1/object/public/addons/Raid_Schedules_328bd31b-c472-4b64-a740-f92ab3a692dd/RaidSchedules.zip",
