@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-29T20:59:17.661Z",
+  "lastUpdated": "2026-04-29T22:04:36.995Z",
   "addons": [
     {
       "ID": "a65ad929-9ac0-4649-9da3-133cde576a21",
@@ -27,7 +27,7 @@
       "UploadDate": "2026-04-03T11:55:48.484",
       "ThumbnailURL": "[\"https://bqowsaiwpqmztxyujmoa.supabase.co/storage/v1/object/public/addons/DarkMode_Updater_Only_59842433-9250-4ccb-9484-d3685578381c/thumbnail_ChatGPT_Image_Apr_3__2026__09_55_19_PM.png\"]",
       "FileSize": "50 Ko",
-      "Downloads": 63,
+      "Downloads": 64,
       "Status": "ready-to-use",
       "UserID": "59842433-9250-4ccb-9484-d3685578381c",
       "FileURL": "https://bqowsaiwpqmztxyujmoa.supabase.co/storage/v1/object/public/addons/DarkMode_Updater_Only_59842433-9250-4ccb-9484-d3685578381c/ui.zip",
@@ -43,7 +43,7 @@
       "UploadDate": "2026-04-03T11:54:26.911",
       "ThumbnailURL": "[\"https://bqowsaiwpqmztxyujmoa.supabase.co/storage/v1/object/public/addons/DarkMode_10_0_CORE_59842433-9250-4ccb-9484-d3685578381c/thumbnail_ChatGPT_Image_Apr_3__2026__09_31_42_PM.png\"]",
       "FileSize": "420 MB",
-      "Downloads": 66,
+      "Downloads": 67,
       "Status": "ready-to-use",
       "UserID": "59842433-9250-4ccb-9484-d3685578381c",
       "FileURL": "https://bqowsaiwpqmztxyujmoa.supabase.co/storage/v1/object/public/addons/DarkMode_10_0_CORE_59842433-9250-4ccb-9484-d3685578381c/ui.zip",
@@ -299,7 +299,7 @@
       "UploadDate": "2025-07-16T13:47:00.104",
       "ThumbnailURL": "[\"https://bqowsaiwpqmztxyujmoa.supabase.co/storage/v1/object/public/addons/Target_Arrow_328bd31b-c472-4b64-a740-f92ab3a692dd/thumbnail_Capture_d__cran_2025-07-15_204130.png\",\"https://bqowsaiwpqmztxyujmoa.supabase.co/storage/v1/object/public/addons/Target_Arrow_328bd31b-c472-4b64-a740-f92ab3a692dd/thumbnail_Capture_d__cran_2025-07-15_204138.png\",\"https://bqowsaiwpqmztxyujmoa.supabase.co/storage/v1/object/public/addons/Target_Arrow_328bd31b-c472-4b64-a740-f92ab3a692dd/thumbnail_Capture_d__cran_2025-07-15_204144.png\",\"https://bqowsaiwpqmztxyujmoa.supabase.co/storage/v1/object/public/addons/Target_Arrow_328bd31b-c472-4b64-a740-f92ab3a692dd/thumbnail_Capture_d__cran_2025-07-15_204152.png\"]",
       "FileSize": "24 Ko",
-      "Downloads": 385,
+      "Downloads": 386,
       "Status": "ready-to-use",
       "UserID": "59842433-9250-4ccb-9484-d3685578381c",
       "FileURL": "https://bqowsaiwpqmztxyujmoa.supabase.co/storage/v1/object/public/addons/Target_Arrow_328bd31b-c472-4b64-a740-f92ab3a692dd/Arrow.zip",
