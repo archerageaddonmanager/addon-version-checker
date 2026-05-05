@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-05T08:02:57.831Z",
+  "lastUpdated": "2026-05-05T10:41:59.358Z",
   "addons": [
     {
       "ID": "a65ad929-9ac0-4649-9da3-133cde576a21",
@@ -43,7 +43,7 @@
       "UploadDate": "2026-04-03T11:54:26.911",
       "ThumbnailURL": "[\"https://bqowsaiwpqmztxyujmoa.supabase.co/storage/v1/object/public/addons/DarkMode_10_0_CORE_59842433-9250-4ccb-9484-d3685578381c/thumbnail_ChatGPT_Image_Apr_3__2026__09_31_42_PM.png\"]",
       "FileSize": "420 MB",
-      "Downloads": 77,
+      "Downloads": 78,
       "Status": "ready-to-use",
       "UserID": "59842433-9250-4ccb-9484-d3685578381c",
       "FileURL": "https://bqowsaiwpqmztxyujmoa.supabase.co/storage/v1/object/public/addons/DarkMode_10_0_CORE_59842433-9250-4ccb-9484-d3685578381c/ui.zip",
@@ -91,7 +91,7 @@
       "UploadDate": "2025-09-22T05:33:41.556",
       "ThumbnailURL": "[\"https://bqowsaiwpqmztxyujmoa.supabase.co/storage/v1/object/public/addons/Folio_2_0_328bd31b-c472-4b64-a740-f92ab3a692dd/thumbnail_Capture_d__cran_2025-07-14_024034.png\",\"https://bqowsaiwpqmztxyujmoa.supabase.co/storage/v1/object/public/addons/Folio_2_0_328bd31b-c472-4b64-a740-f92ab3a692dd/thumbnail_Capture_d__cran_2025-07-14_024050.png\",\"https://bqowsaiwpqmztxyujmoa.supabase.co/storage/v1/object/public/addons/Folio_2_0_328bd31b-c472-4b64-a740-f92ab3a692dd/thumbnail_Capture_d__cran_2025-07-14_024102.png\",\"https://bqowsaiwpqmztxyujmoa.supabase.co/storage/v1/object/public/addons/Folio_2_0_328bd31b-c472-4b64-a740-f92ab3a692dd/thumbnail_Capture_d__cran_2025-07-14_024136.png\"]",
       "FileSize": "85 Ko",
-      "Downloads": 989,
+      "Downloads": 990,
       "Status": "ready-to-use",
       "UserID": "59842433-9250-4ccb-9484-d3685578381c",
       "FileURL": "https://bqowsaiwpqmztxyujmoa.supabase.co/storage/v1/object/public/addons/Folio_2_0_59842433-9250-4ccb-9484-d3685578381c/Folio105.zip",
@@ -283,7 +283,7 @@
       "UploadDate": "2025-07-17T19:46:28.917",
       "ThumbnailURL": "[\"https://bqowsaiwpqmztxyujmoa.supabase.co/storage/v1/object/public/addons/Allow_200_Max_Players_328bd31b-c472-4b64-a740-f92ab3a692dd/thumbnail_Capture_d__cran_2025-07-14_023707.png\"]",
       "FileSize": "12 Ko",
-      "Downloads": 325,
+      "Downloads": 326,
       "Status": "ready-to-use",
       "UserID": "59842433-9250-4ccb-9484-d3685578381c",
       "FileURL": "https://bqowsaiwpqmztxyujmoa.supabase.co/storage/v1/object/public/addons/Allow_200_Max_Players_328bd31b-c472-4b64-a740-f92ab3a692dd/allow200maxplayers.zip",
